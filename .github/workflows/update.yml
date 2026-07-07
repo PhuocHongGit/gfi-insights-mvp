@@ -1,0 +1,42 @@
+name: Update GFI Insights dashboard
+
+on:
+  schedule:
+    - cron: '0 14 * * *'      # 14:00 UTC daily = 21:00 giờ VN (after the evening digest). Adjust as you like.
+  workflow_dispatch: {}         # also runnable on demand from the Actions tab ("Run workflow")
+
+permissions:
+  contents: write               # allow the job to commit the refreshed index.html back to the repo
+
+concurrency:
+  group: update-dashboard
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild dashboard from the live /published feed (last 7 days)
+        env:
+          PYTHONUTF8: '1'
+        run: |
+          python build/build_feed.py index.html --days 7 \
+            --local "assets/05072026_result.json" --assets "assets"
+
+      - name: Commit & push if the dashboard changed
+        run: |
+          git config user.name  "gfi-insights-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --cached --quiet; then
+            echo "No change today — nothing to deploy."
+          else
+            git commit -m "Auto-update dashboard $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

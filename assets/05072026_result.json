@@ -1,0 +1,4027 @@
+[
+  {
+    "id": "cointelegraph:binance-outflows-1-23-billion-eth-withdrawals-3-year-high",
+    "source": "news",
+    "title": "Binance ghi nhận dòng tiền rút ròng 1,23 tỷ USD, cao nhất trong 3 năm đối với ETH",
+    "message": "🚨 TIN NÓNG — 05/07\n\nBinance ghi nhận dòng tiền rút ròng 1,23 tỷ USD, cao nhất trong 3 năm đối với ETH\n\nSàn giao dịch Binance vừa chứng kiến dòng tiền rút ròng hàng tuần lên tới 1,23 tỷ USD, mức tăng đột biến 207% so với tuần trước đó [1]. Đáng chú ý, khối lượng rút ETH khỏi sàn đã chạm mức cao nhất trong vòng 3 năm qua [1]. Mặc dù chưa rõ ý định bán tháo từ người dùng, nhưng sự kiện này đang gây áp lực tâm lý lên thị trường và dự báo biến động mạnh đối với ETH [1].\n\n🔍 Bằng chứng xác minh:\n- Số liệu dòng tiền rút ròng hàng tuần — 1.23 tỷ USD (nguồn: Cointelegraph)\n- Mức tăng dòng tiền rút ròng so với tuần trước — 207% (nguồn: Cointelegraph)\n\n💡 GỢI Ý NỘI DUNG\n- Cảnh báo nhà đầu tư theo dõi sát biến động giá ETH và thanh khoản trên sàn trong vài ngày tới.\n- Đặt câu hỏi liệu đây là động thái rút tiền về ví lạnh để lưu trữ dài hạn hay là sự chuẩn bị cho một đợt xả hàng quy mô lớn.\n\n📰 Nguồn:\n[1] cointelegraph — https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high",
+    "signal_type": "onchain",
+    "ticker": "ETH",
+    "ts": "2026-07-05T15:33:39+07:00",
+    "published_ts": "2026-07-05T15:33:39+07:00",
+    "source_url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high",
+    "sources": [],
+    "entry": null,
+    "pnl": null,
+    "image": "Breaking_news 1.png"
+  },
+  {
+    "id": "coindesk:bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoi",
+    "source": "news",
+    "title": "Cộng đồng Bitcoin tranh cãi gay gắt về việc 'đóng băng' 1,1 triệu BTC của Satoshi Nakamoto trước mối đe dọa từ máy tính lượng tử.",
+    "message": "🚨 TIN NÓNG — 04/07\n\nCộng đồng Bitcoin tranh cãi gay gắt về việc 'đóng băng' 1,1 triệu BTC của Satoshi Nakamoto trước mối đe dọa từ máy tính lượng tử.\n\nGiới chuyên gia đang chia rẽ sâu sắc trước đề xuất thực hiện nâng cấp mạng lưới nhằm ngăn chặn khả năng di chuyển hoặc đánh cắp 1,1 triệu BTC của Satoshi Nakamoto trong tương lai [1]. Những người ủng hộ cho rằng đây là bước đi cần thiết để phòng tránh rủi ro hệ thống nếu máy tính lượng tử có khả năng phá vỡ các mã khóa Elliptic Curve đời đầu [1]. Ngược lại, các nhà phê bình cảnh báo rằng hành động can thiệp này sẽ vi phạm nguyên tắc bất biến và chống kiểm duyệt của Bitcoin, có thể gây tổn hại nghiêm trọng đến niềm tin vào giao thức này [1].\n\n💡 GỢI Ý NỘI DUNG\n- Phân tích tác động của nguyên tắc bất biến trong Bitcoin và liệu an ninh mạng có nên được ưu tiên hơn tính phi tập trung trong trường hợp rủi ro từ máy tính lượng tử.\n- Bàn luận về rủi ro hệ thống nếu 1,1 triệu BTC của Satoshi bị tấn công và quan điểm cá nhân về việc liệu cộng đồng có nên can thiệp vào ví của nhà sáng lập.\n\n📰 Nguồn:\n[1] coindesk — https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+    "signal_type": "governance",
+    "ticker": "BTC",
+    "ts": "2026-07-05T01:00:00+07:00",
+    "published_ts": "2026-07-05T01:00:00+07:00",
+    "source_url": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+    "sources": [],
+    "entry": null,
+    "pnl": null,
+    "image": "Breaking_news 2.png"
+  },
+  {
+    "id": "wave-recap:68",
+    "source": "signal",
+    "title": "Tổng hợp Smart Money · 8H",
+    "message": "📈 Xu hướng chung (8h):\nMUA ÁP ĐẢO (57%).\n\nTrong đó, dòng tiền thông minh đang cược mạnh vào:\n\n• $BTC: giá mua TB $62,717\n\n👀 Đáng theo dõi (Long mạnh, KL nhỏ): $OP, $KBONK, $XPL, $ADA, $ZEC\n\n🔄 Ví lớn đi ngược xu hướng:\n• 🤓 Smart HL Perps Trader [0x833b99] đang xả $BTC (-$459K)\n• HL Perps Majors Trader [0x31dea2] đang xả $BTC (-$273K)\n\n🆕 Token nổi bật mới trong 8h:\n$TRUMP, $XPL, $BNB, $GRAM, $KSHIB, $XMR, $OP, $WLFI\n\n🆕 Các Entry mới Trong 8h:\n—\n",
+    "signal_type": "wave_recap",
+    "ticker": "",
+    "ts": "2026-07-05T23:00:21+07:00",
+    "published_ts": "2026-07-05T23:00:21+07:00",
+    "source_url": "",
+    "sources": [],
+    "entry": null,
+    "pnl": null,
+    "image": "https://storage.googleapis.com/gfi-455410-signal-cards/cards/sm_wave_8h_wave-recap-68.png"
+  },
+  {
+    "id": "89",
+    "source": "digest",
+    "title": "Digest evening 2026-07-05",
+    "message": "🌍 TỔNG KẾT NGÀY — 2026-07-05\n\n🟢 Xu hướng: Bullish\n\n🟢 Thiên hướng phiên tới: Bullish (~72%)\n\n• Cập nhật: Đà phục hồi từ mức thấp 21 tháng đã đẩy Bitcoin, Ethereum và XRP đạt đỉnh tuần, kích hoạt làn sóng thanh lý vị thế bán khống trên diện rộng. [1]\n• Cập nhật: Các quỹ ETF Bitcoin đã chấm dứt chuỗi 10 ngày rút ròng bằng dòng tiền dương mạnh mẽ 221 triệu USD, đánh dấu sự suy giảm đáng kể của áp lực bán từ khối tổ chức. [1]\n• Dòng tiền rút ETH khỏi Binance ghi nhận mức kỷ lục 3 năm, tạo tâm lý thận trọng về khả năng bán tháo hoặc tái tích lũy quy mô lớn. [2]\n• Cập nhật: Các chuyên gia đang cân nhắc khả năng nâng cấp mạng lưới để di chuyển số dư của ví Satoshi Nakamoto nhằm đối phó với rủi ro từ điện toán lượng tử. [3]\n\n📌 TIÊU ĐIỂM CHÍNH\n🟢 Bitcoin (BTC): Cập nhật: Bitcoin vượt mốc 63.000 USD, củng cố đà phục hồi sau khi hình thành mô hình kỹ thuật 'W' theo dự báo của John Bollinger. [1]\n🟢 Token hóa tài sản (RWA): Cập nhật: Securitize đã chính thức kích hoạt giao dịch song song giữa cổ phiếu NYSE và các đại diện token hóa trên Solana và Avalanche, hiện thực hóa lộ trình kết nối tài chính truyền thống với blockchain. [4]\n\n🧭 GÓC NHÌN\n• Việc tích hợp cổ phiếu làm tài sản thế chấp trên các sàn giao dịch như Kraken và sự phát triển của Securitize đang mở rộng đáng kể tiện ích của tài sản số trong hệ thống tài chính truyền thống. [4]\n• Các cuộc thảo luận về quản trị dài hạn của Ethereum, tiêu biểu là lộ trình 'Lean Ethereum' của Vitalik Buterin, cho thấy nỗ lực chuyển dịch tập trung vào khả năng mở rộng bền vững hơn trong dài hạn. [5]\n\n🔮 DỰ BÁO PHIÊN TỚI\n🟢 Nếu Bitcoin duy trì được đà bứt phá trên mốc 63.000 USD với dòng tiền ETF tiếp tục duy trì trạng thái dương, tâm lý lạc quan có thể lan tỏa giúp thị trường nới rộng đà hồi phục trong phiên giao dịch tới.\n🔴 Nếu áp lực rút ETH kỷ lục từ sàn Binance kích hoạt làn sóng bán tháo trên các thị trường giao ngay, giá Ethereum có nguy cơ điều chỉnh mạnh và kéo theo xu hướng giảm điểm trên toàn bộ thị trường trong phiên tới.\n\n👀 CẦN THEO DÕI\n• Dòng vốn ròng tại các quỹ Spot BTC ETF để xác nhận tính bền vững của xu hướng\n• Biến động số dư ETH trên ví sàn Binance nhằm đánh giá áp lực cung thực tế\n• Tỷ lệ Funding rate trên các sàn phái sinh để theo dõi dư địa thanh lý bán khống tiếp theo\n• Các diễn biến pháp lý xoay quanh chính sách siết chặt thị trường của EU\n• Khối lượng giao dịch và sự ổn định của BTC quanh vùng kháng cự kỹ thuật\n\n📚 GIẢI THÍCH NHANH\n• Thanh lý vị thế bán khống (Short Squeeze): Khi Bitcoin tăng giá nhanh chóng, các nhà đầu tư đặt cược giá giảm bị buộc phải đóng vị thế bằng cách mua lại tài sản, tạo ra áp lực mua đẩy giá lên cao hơn một cách đột ngột.\n• Dòng vốn ETF dương: Việc các quỹ ETF Bitcoin giao ngay ghi nhận dòng tiền vào sau 10 ngày rút ròng là tín hiệu cho thấy khối nhà đầu tư tổ chức đang quay trở lại tích lũy, giúp ổn định tâm lý thị trường.\n• Token hóa tài sản (RWA): Việc Securitize cho phép giao dịch cổ phiếu song song trên sàn chứng khoán truyền thống và blockchain cho thấy bước tiến lớn trong việc đưa tài sản thực tế vào hệ sinh thái tài sản số, giúp cải thiện thanh khoản và hiệu quả vốn.\n• Chỉ báo tín hiệu mua (Buy Signal): Các chỉ báo về nguồn cung và lợi nhuận/thua lỗ vừa kích hoạt tín hiệu mua lần đầu kể từ 2022, đóng vai trò là cột mốc kỹ thuật quan trọng gợi ý thị trường có thể đã hoàn tất giai đoạn đầu hàng và bắt đầu tạo đáy.\n\n💡 GỢI Ý NỘI DUNG\n- Phân tích tác động thực tế của việc token hóa cổ phiếu lên thanh khoản của hệ sinh thái Solana và Avalanche.\n- Tổng hợp ý kiến các chuyên gia về rủi ro và lợi ích nếu thực hiện nâng cấp mạng lưới để di chuyển số dư của các ví Satoshi.\n\n📰 Nguồn:\n[1] CoinDesk — https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses\n[2] cointelegraph — https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high\n[3] coindesk — https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows\n[4] cointelegraph — https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades\n[5] cointelegraph — https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap",
+    "signal_type": "digest",
+    "ticker": "",
+    "ts": "2026-07-05T20:02:08+07:00",
+    "published_ts": "2026-07-05T20:02:08+07:00",
+    "source_url": "",
+    "sources": [
+      "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+      "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
+      "https://x.com/WuBlockchain/status/2073562226422853636",
+      "https://beincrypto.com/trump-meme-coin-cycle-retail-losses/",
+      "https://wublock.substack.com/p/asias-weekly-top10-crypto-news-korea",
+      "https://x.com/WuBlockchain/status/2073740658699894859",
+      "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    ],
+    "entry": null,
+    "pnl": null,
+    "image": "Digest_evening.png"
+  },
+  {
+    "id": "wave-recap:67",
+    "source": "signal",
+    "title": "Tổng hợp Smart Money · 8H",
+    "message": "📈 Xu hướng chung (8h):\nMUA ÁP ĐẢO (73%).\n\nTrong đó, dòng tiền thông minh đang cược mạnh vào:\n\n• $HYPE: giá mua TB $68.77\n• $BTC: giá mua TB $62,867\n• $SOL: giá mua TB $80.49\n\n👀 Đáng theo dõi (Long mạnh, KL nhỏ): $NEAR, $LIT, $PENGU, $KPEPE, $PUMP\n\n🔄 Ví lớn đi ngược xu hướng:\n• HL Perps Majors Trader [0xad227f] đang xả $ETH (-$444K)\n• \"DaDogg\" HL Vault Leader [0x3b883b] đang xả $ETH (-$440K)\n• HL Perps Majors Trader [0x31dea2] đang xả $BTC (-$155K)\n\n🆕 Token nổi bật mới trong 8h:\n$NEAR, $ZEC, $LINK\n\n🆕 Các Entry mới Trong 8h:\n—\n",
+    "signal_type": "wave_recap",
+    "ticker": "",
+    "ts": "2026-07-05T15:00:22+07:00",
+    "published_ts": "2026-07-05T15:00:22+07:00",
+    "source_url": "",
+    "sources": [],
+    "entry": null,
+    "pnl": null,
+    "image": "https://storage.googleapis.com/gfi-455410-signal-cards/cards/sm_wave_8h_wave-recap-67.png"
+  },
+  {
+    "id": "88",
+    "source": "digest",
+    "title": "Digest noon 2026-07-05",
+    "message": "🌍 CẬP NHẬT GIỮA NGÀY — 2026-07-05\n\n🟢 Xu hướng: Bullish\n\n🟢 Thiên hướng phiên tới: Bullish (~69%)\n\n• Cập nhật: Đà phục hồi từ mức thấp 21 tháng đã đẩy Bitcoin, Ethereum và XRP đạt đỉnh tuần, kích hoạt làn sóng thanh lý vị thế bán khống trên diện rộng. [1]\n• Dòng tiền ETH rút khỏi Binance ghi nhận mức kỷ lục trong 3 năm, tạo áp lực giảm giá tiềm tàng lên đồng coin này. [2]\n• Cập nhật: Các chuyên gia đang cân nhắc khả năng nâng cấp mạng lưới để di chuyển số dư của ví Satoshi Nakamoto nhằm đối phó với rủi ro từ điện toán lượng tử. [3]\n\n📌 TIÊU ĐIỂM CHÍNH\n🟢 Cập nhật: Đà phục hồi của thị trường: Bitcoin vượt mốc 63.000 USD sau khi kích hoạt thanh lý vị thế bán khống, xác nhận xu hướng đảo chiều kỹ thuật ngắn hạn. [1]\n⚪ Cập nhật: Tranh luận về ví Satoshi: Khả năng nâng cấp mạng lưới để di chuyển 1,1 triệu BTC của Satoshi đang gây ra tranh cãi lớn về tính bất biến của blockchain. [3]\n🔴 Lỗ hổng bảo mật Aptos: Các hacker mũ trắng phát hiện lỗ hổng nghiêm trọng trên Aptos, đe dọa hàng chục tỷ USD tài sản trước khi kịp thời ngăn chặn. [4]\n\n🧭 GÓC NHÌN\n• Mặc dù thị trường phục hồi, việc rút ETH khỏi Binance với quy mô 1,23 tỷ USD trong tuần cho thấy tâm lý lo ngại về thanh khoản vẫn còn hiện hữu. [2]\n• Cập nhật: Dave Portnoy tiết lộ khoản lỗ hàng triệu USD từ Bitcoin nhưng cam kết không bán tháo bất chấp thị trường rung lắc. [5]\n\n🔮 DỰ BÁO PHIÊN TỚI\n🟢 Nếu Bitcoin duy trì được mốc hỗ trợ 63.000 USD và thị trường tiếp tục hấp thụ các vị thế bán khống còn tồn đọng, đà phục hồi kỹ thuật có nhiều cơ hội mở rộng để kiểm tra các ngưỡng kháng cự cao hơn trong phiên tới.\n🔴 Nếu áp lực rút ETH kỷ lục khỏi sàn Binance gây ra làn sóng hoảng loạn cục bộ và dòng tiền tiếp tục tháo chạy khỏi sàn, tâm lý thị trường có khả năng xoay chuyển tiêu cực, đẩy giá các altcoin chủ chốt quay đầu giảm điểm.\n\n👀 CẦN THEO DÕI\n• Khối lượng giao dịch sau kỳ nghỉ lễ\n• Biến động dòng tiền rút ra trên Binance\n• Phản ứng của cộng đồng đối với lỗ hổng bảo mật trên Aptos\n• Tỷ lệ thanh lý các vị thế đòn bẩy trên sàn\n• Dữ liệu Open Interest cho thấy sự thay đổi vị thế của phe bán\n\n📚 GIẢI THÍCH NHANH\n• Thanh lý vị thế bán khống (Short Squeeze): Khi giá BTC tăng mạnh đột ngột, các nhà đầu tư đặt cược vào xu hướng giảm buộc phải mua lại tài sản để đóng vị thế, từ đó đẩy giá tăng nhanh hơn và tạo hiệu ứng dây chuyền trên thị trường phái sinh.\n• Dòng vốn vào ETF Bitcoin: Dòng tiền đổ vào các quỹ ETF Bitcoin giao ngay sau chuỗi ngày rút vốn cho thấy sự quay lại của khối nhà đầu tư tổ chức, giúp giảm bớt áp lực bán và xác nhận lại niềm tin vào sức khỏe thị trường.\n• Securitize và token hóa tài sản: Việc Securitize vận hành giao dịch song song giữa cổ phiếu trên NYSE và token trên blockchain là bước tiến quan trọng, hiện thực hóa khả năng kết nối trực tiếp tài chính truyền thống vào hạ tầng phi tập trung.\n• Rủi ro điện toán lượng tử đối với Bitcoin: Các cuộc thảo luận về việc di chuyển ví của Satoshi Nakamoto phản ánh sự chuẩn bị của mạng lưới trước nguy cơ công nghệ tương lai có thể bẻ gãy mã hóa hiện tại, gây tranh cãi về nguyên tắc bất biến của Bitcoin.\n\n💡 GỢI Ý NỘI DUNG\n- Phân tích tác động của việc 'di chuyển' ví Satoshi đối với niềm tin vào sự phi tập trung của Bitcoin.\n- Đánh giá rủi ro an ninh mạng dựa trên lỗ hổng vừa phát hiện tại hệ sinh thái Aptos.\n\n📰 Nguồn:\n[1] CoinDesk — https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses\n[2] cointelegraph — https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high\n[3] coindesk — https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows\n[4] CoinDesk — https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk\n[5] coindesk — https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
+    "signal_type": "digest",
+    "ticker": "",
+    "ts": "2026-07-05T14:01:40+07:00",
+    "published_ts": "2026-07-05T14:01:40+07:00",
+    "source_url": "",
+    "sources": [
+      "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+      "https://beincrypto.com/trump-meme-coin-cycle-retail-losses/",
+      "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+      "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
+      "https://x.com/WuBlockchain/status/2073562226422853636",
+      "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "https://ambcrypto.com/kite-gains-13-on-ai-agent-buzz-but-2-key-signals-still-favor-caution/",
+      "https://ambcrypto.com/how-celestias-network-upgrade-triggered-tias-102-volume-surge/",
+      "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says"
+    ],
+    "entry": null,
+    "pnl": null,
+    "image": "Digest_noon.png"
+  },
+  {
+    "source": "heatmap",
+    "signal": {
+      "date": "05/07",
+      "market": {
+        "hot": [
+          {
+            "note": "Nhu cầu truy cập dữ liệu dòng tiền thông minh (smart money) tăng vọt theo các đợt biến động của meme và launchpad; nhà đầu tư đang tranh thủ củng cố công cụ phân tích để đón đầu các chu kỳ tiếp theo.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/analytics",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://nansen.ai/post/top-crypto-analytics-platforms-2025",
+                "label": "nansen.ai"
+              },
+              {
+                "url": "https://coincub.com/blog/best-crypto-analysis-tools/",
+                "label": "coincub.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Analytics",
+            "topCoins": [
+              "lab",
+              "pyth-network",
+              "the-graph"
+            ],
+            "fdvChange": -2.3,
+            "heatScore": 70,
+            "marketCap": 6189146303,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 87,
+            "revenueMomentum": null
+          },
+          {
+            "note": "Thương vụ Coinbase thâu tóm Echo.xyz cuối 2025 củng cố uy tín nền tảng; thị trường đang phản ứng tích cực với các dự án early-stage có sự bảo chứng từ các CEX hàng đầu.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/echo-launchpad",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://echo.xyz/",
+                "label": "echo.xyz"
+              },
+              {
+                "url": "https://cryptorank.io/fundraising-platforms/echo",
+                "label": "cryptorank.io"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Echo Launchpad",
+            "topCoins": [
+              "lab",
+              "plasma"
+            ],
+            "fdvChange": null,
+            "heatScore": 70,
+            "marketCap": 5015058834,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 134.6,
+            "revenueMomentum": null
+          },
+          {
+            "note": "Sự tham gia của các influencer lớn và mô hình creator token (điển hình là Pump.fun) đã đẩy doanh thu nhóm này tăng mạnh, tạo lực đỡ cho giá token trong 24-48h qua.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/launchpad",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://coinmarketcap.com/cmc-ai/pump-fun/latest-updates/",
+                "label": "coinmarketcap.com"
+              },
+              {
+                "url": "https://cryptoslate.com/launchpads/",
+                "label": "cryptoslate.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Launchpad",
+            "topCoins": [
+              "lab",
+              "jupiter-exchange-solana",
+              "pump-fun"
+            ],
+            "fdvChange": null,
+            "heatScore": 64.4,
+            "marketCap": 7965579372,
+            "revenue7d": 7156840,
+            "revenue24h": 1310245,
+            "priceChange24h": 54.4,
+            "revenueMomentum": 28.2
+          },
+          {
+            "note": "Hệ sinh thái meme trên BNB Chain tiếp tục sôi động nhờ phí tạo token tối ưu, dòng tiền đầu cơ đã quay lại tìm kiếm cơ hội sau nhịp điều chỉnh tích lũy.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/four-meme-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://www.coingecko.com/en/categories/four-meme-ecosystem",
+                "label": "coingecko.com"
+              },
+              {
+                "url": "https://four.meme/en",
+                "label": "four.meme"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Four.meme Ecosystem",
+            "topCoins": [
+              "bianrensheng",
+              "siren-2",
+              "hakimi"
+            ],
+            "fdvChange": null,
+            "heatScore": 27.3,
+            "marketCap": 1025432708,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 17.3,
+            "revenueMomentum": null
+          },
+          {
+            "note": "Cộng đồng Trung Quốc đang định hình một chu kỳ meme coin mới với khả năng huy động vốn cộng đồng nhanh chóng, tạo động lực lan tỏa từ BNB Chain sang các hệ sinh thái lớn khác.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/chinese-meme",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://m.techflowpost.com/article/29963",
+                "label": "m.techflowpost.com"
+              },
+              {
+                "url": "https://www.kucoin.com/blog/meme-coins-are-back-why-chinese-communities-are-driving-the-narrative",
+                "label": "kucoin.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Chinese Meme",
+            "topCoins": [
+              "bianrensheng",
+              "meme-horse",
+              "osk"
+            ],
+            "fdvChange": null,
+            "heatScore": 25.3,
+            "marketCap": 980571295,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 15.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/binance-alpha-spotlight",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Binance Alpha Spotlight",
+            "topCoins": [
+              "lab",
+              "memecore",
+              "ondo-finance"
+            ],
+            "fdvChange": null,
+            "heatScore": 24.1,
+            "marketCap": 22408653349,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 14.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ether-fi-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Ether.fi Ecosystem",
+            "topCoins": [
+              "wrapped-eeth",
+              "ether-fi",
+              "ether-fi-staked-eth"
+            ],
+            "fdvChange": null,
+            "heatScore": 19,
+            "marketCap": 379637700,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 9,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/arcade-games",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Arcade Games",
+            "topCoins": [
+              "audiera",
+              "hamster-kombat",
+              "pepecoin-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 18.9,
+            "marketCap": 936164900,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 8.9,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/tourism",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Tourism",
+            "topCoins": [
+              "epic-chain",
+              "concierge-io",
+              "vow"
+            ],
+            "fdvChange": null,
+            "heatScore": 16.8,
+            "marketCap": 51641349,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 16.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ton-meme-coins",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "TON Meme",
+            "topCoins": [
+              "notcoin",
+              "utya",
+              "dogs-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 16.5,
+            "marketCap": 121503850,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 16.5,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/telegram_apps",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Telegram Apps",
+            "topCoins": [
+              "audiera",
+              "floki",
+              "catizen"
+            ],
+            "fdvChange": null,
+            "heatScore": 16.1,
+            "marketCap": 1312390356,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 6.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/binance-wallet-ido",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Binance Wallet IDO",
+            "topCoins": [
+              "midnight-3",
+              "velvet",
+              "sentient"
+            ],
+            "fdvChange": null,
+            "heatScore": 14.3,
+            "marketCap": 1718605263,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 4.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/liquid-restaking-governance-token",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Liquid Restaking Governance Tokens",
+            "topCoins": [
+              "ether-fi",
+              "pendle",
+              "kernel-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 14.3,
+            "marketCap": 660096929,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 4.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/neobank",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Neobank",
+            "topCoins": [
+              "mantle",
+              "ether-fi",
+              "plasma"
+            ],
+            "fdvChange": null,
+            "heatScore": 11.3,
+            "marketCap": 2444657370,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 1.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/defai",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "DeFAI",
+            "topCoins": [
+              "velvet",
+              "ribbita-by-virtuals",
+              "derive"
+            ],
+            "fdvChange": null,
+            "heatScore": 11.2,
+            "marketCap": 933734630,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 1.2,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/alleged-sec-securities",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Alleged SEC Securities",
+            "topCoins": [
+              "binancecoin",
+              "tron",
+              "the-open-network"
+            ],
+            "fdvChange": null,
+            "heatScore": 10.3,
+            "marketCap": 120692820909,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 0.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/binance-launchpool",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Binance Launchpool",
+            "topCoins": [
+              "sui",
+              "ethena",
+              "ether-fi"
+            ],
+            "fdvChange": null,
+            "heatScore": 10.1,
+            "marketCap": 5045667683,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 0.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/x402-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "x402 Ecosystem",
+            "topCoins": [
+              "chainlink",
+              "unibase",
+              "eigenlayer"
+            ],
+            "fdvChange": null,
+            "heatScore": 9.8,
+            "marketCap": 6697217064,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.2,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/gambling",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Gambling",
+            "topCoins": [
+              "rain",
+              "bc-token",
+              "shuffle-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 9.6,
+            "marketCap": 10686739560,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.4,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/virtuals-protocol-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Virtuals Protocol Ecosystem",
+            "topCoins": [
+              "virtual-protocol",
+              "ribbita-by-virtuals",
+              "robo-token-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 9.2,
+            "marketCap": 594609632,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/decentralized-derivatives",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Derivatives",
+            "topCoins": [
+              "hyperliquid",
+              "lighter",
+              "ethgas-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 8.6,
+            "marketCap": 17626911592,
+            "revenue7d": 20128907,
+            "revenue24h": 2616962,
+            "priceChange24h": -1.4,
+            "revenueMomentum": -9
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ai-meme-coins",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "AI",
+            "topCoins": [
+              "fartcoin",
+              "ribbita-by-virtuals",
+              "turbo"
+            ],
+            "fdvChange": 6.3,
+            "heatScore": 8.5,
+            "marketCap": 751639091,
+            "revenue7d": 33832,
+            "revenue24h": 5119,
+            "priceChange24h": -1.5,
+            "revenueMomentum": 5.9
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/pump-fun",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Pump.fun Ecosystem",
+            "topCoins": [
+              "fartcoin",
+              "the-black-bull",
+              "would"
+            ],
+            "fdvChange": null,
+            "heatScore": 8.5,
+            "marketCap": 1730094612,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -1.5,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ai-applications",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "AI Applications",
+            "topCoins": [
+              "venice-token",
+              "velvet",
+              "pieverse"
+            ],
+            "fdvChange": null,
+            "heatScore": 8.4,
+            "marketCap": 1817267446,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -1.6,
+            "revenueMomentum": null
+          }
+        ],
+        "cold": [
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/intent",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Intent",
+            "topCoins": [
+              "cow-protocol",
+              "debridge",
+              "synapse-2"
+            ],
+            "fdvChange": null,
+            "heatScore": -5.4,
+            "marketCap": 329860405,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -5.4,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/terminal-of-truths",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Terminal of Truths",
+            "topCoins": [
+              "fartcoin",
+              "goatseus-maximus",
+              "aiwithdaddyissues"
+            ],
+            "fdvChange": null,
+            "heatScore": -6.8,
+            "marketCap": 174041515,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -6.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/venice-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Venice Ecosystem",
+            "topCoins": [
+              "venice-token",
+              "diem",
+              "dolphin-2"
+            ],
+            "fdvChange": null,
+            "heatScore": -8.1,
+            "marketCap": 655876115,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -8.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/olympus-pro",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Olympus Pro Ecosystem",
+            "topCoins": [
+              "synapse-2",
+              "spell-token",
+              "thorswap"
+            ],
+            "fdvChange": null,
+            "heatScore": -11.7,
+            "marketCap": 143268026,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -11.7,
+            "revenueMomentum": null
+          }
+        ],
+        "heatmap": [
+          {
+            "note": "Nhu cầu truy cập dữ liệu dòng tiền thông minh (smart money) tăng vọt theo các đợt biến động của meme và launchpad; nhà đầu tư đang tranh thủ củng cố công cụ phân tích để đón đầu các chu kỳ tiếp theo.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/analytics",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://nansen.ai/post/top-crypto-analytics-platforms-2025",
+                "label": "nansen.ai"
+              },
+              {
+                "url": "https://coincub.com/blog/best-crypto-analysis-tools/",
+                "label": "coincub.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Analytics",
+            "topCoins": [
+              "lab",
+              "pyth-network",
+              "the-graph"
+            ],
+            "fdvChange": -2.3,
+            "heatScore": 70,
+            "marketCap": 6189146303,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 87,
+            "revenueMomentum": null
+          },
+          {
+            "note": "Thương vụ Coinbase thâu tóm Echo.xyz cuối 2025 củng cố uy tín nền tảng; thị trường đang phản ứng tích cực với các dự án early-stage có sự bảo chứng từ các CEX hàng đầu.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/echo-launchpad",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://echo.xyz/",
+                "label": "echo.xyz"
+              },
+              {
+                "url": "https://cryptorank.io/fundraising-platforms/echo",
+                "label": "cryptorank.io"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Echo Launchpad",
+            "topCoins": [
+              "lab",
+              "plasma"
+            ],
+            "fdvChange": null,
+            "heatScore": 70,
+            "marketCap": 5015058834,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 134.6,
+            "revenueMomentum": null
+          },
+          {
+            "note": "Sự tham gia của các influencer lớn và mô hình creator token (điển hình là Pump.fun) đã đẩy doanh thu nhóm này tăng mạnh, tạo lực đỡ cho giá token trong 24-48h qua.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/launchpad",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://coinmarketcap.com/cmc-ai/pump-fun/latest-updates/",
+                "label": "coinmarketcap.com"
+              },
+              {
+                "url": "https://cryptoslate.com/launchpads/",
+                "label": "cryptoslate.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Launchpad",
+            "topCoins": [
+              "lab",
+              "jupiter-exchange-solana",
+              "pump-fun"
+            ],
+            "fdvChange": null,
+            "heatScore": 64.4,
+            "marketCap": 7965579372,
+            "revenue7d": 7156840,
+            "revenue24h": 1310245,
+            "priceChange24h": 54.4,
+            "revenueMomentum": 28.2
+          },
+          {
+            "note": "Hệ sinh thái meme trên BNB Chain tiếp tục sôi động nhờ phí tạo token tối ưu, dòng tiền đầu cơ đã quay lại tìm kiếm cơ hội sau nhịp điều chỉnh tích lũy.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/four-meme-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://www.coingecko.com/en/categories/four-meme-ecosystem",
+                "label": "coingecko.com"
+              },
+              {
+                "url": "https://four.meme/en",
+                "label": "four.meme"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Four.meme Ecosystem",
+            "topCoins": [
+              "bianrensheng",
+              "siren-2",
+              "hakimi"
+            ],
+            "fdvChange": null,
+            "heatScore": 27.3,
+            "marketCap": 1025432708,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 17.3,
+            "revenueMomentum": null
+          },
+          {
+            "note": "Cộng đồng Trung Quốc đang định hình một chu kỳ meme coin mới với khả năng huy động vốn cộng đồng nhanh chóng, tạo động lực lan tỏa từ BNB Chain sang các hệ sinh thái lớn khác.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/chinese-meme",
+                "label": "CoinGecko"
+              },
+              {
+                "url": "https://m.techflowpost.com/article/29963",
+                "label": "m.techflowpost.com"
+              },
+              {
+                "url": "https://www.kucoin.com/blog/meme-coins-are-back-why-chinese-communities-are-driving-the-narrative",
+                "label": "kucoin.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Chinese Meme",
+            "topCoins": [
+              "bianrensheng",
+              "meme-horse",
+              "osk"
+            ],
+            "fdvChange": null,
+            "heatScore": 25.3,
+            "marketCap": 980571295,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 15.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/binance-alpha-spotlight",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Binance Alpha Spotlight",
+            "topCoins": [
+              "lab",
+              "memecore",
+              "ondo-finance"
+            ],
+            "fdvChange": null,
+            "heatScore": 24.1,
+            "marketCap": 22408653349,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 14.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ether-fi-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Ether.fi Ecosystem",
+            "topCoins": [
+              "wrapped-eeth",
+              "ether-fi",
+              "ether-fi-staked-eth"
+            ],
+            "fdvChange": null,
+            "heatScore": 19,
+            "marketCap": 379637700,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 9,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/arcade-games",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Arcade Games",
+            "topCoins": [
+              "audiera",
+              "hamster-kombat",
+              "pepecoin-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 18.9,
+            "marketCap": 936164900,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 8.9,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/tourism",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Tourism",
+            "topCoins": [
+              "epic-chain",
+              "concierge-io",
+              "vow"
+            ],
+            "fdvChange": null,
+            "heatScore": 16.8,
+            "marketCap": 51641349,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 16.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ton-meme-coins",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "TON Meme",
+            "topCoins": [
+              "notcoin",
+              "utya",
+              "dogs-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 16.5,
+            "marketCap": 121503850,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 16.5,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/telegram_apps",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Telegram Apps",
+            "topCoins": [
+              "audiera",
+              "floki",
+              "catizen"
+            ],
+            "fdvChange": null,
+            "heatScore": 16.1,
+            "marketCap": 1312390356,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 6.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/binance-wallet-ido",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Binance Wallet IDO",
+            "topCoins": [
+              "midnight-3",
+              "velvet",
+              "sentient"
+            ],
+            "fdvChange": null,
+            "heatScore": 14.3,
+            "marketCap": 1718605263,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 4.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/liquid-restaking-governance-token",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Liquid Restaking Governance Tokens",
+            "topCoins": [
+              "ether-fi",
+              "pendle",
+              "kernel-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 14.3,
+            "marketCap": 660096929,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 4.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/neobank",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Neobank",
+            "topCoins": [
+              "mantle",
+              "ether-fi",
+              "plasma"
+            ],
+            "fdvChange": null,
+            "heatScore": 11.3,
+            "marketCap": 2444657370,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 1.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/defai",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "DeFAI",
+            "topCoins": [
+              "velvet",
+              "ribbita-by-virtuals",
+              "derive"
+            ],
+            "fdvChange": null,
+            "heatScore": 11.2,
+            "marketCap": 933734630,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 1.2,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/alleged-sec-securities",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Alleged SEC Securities",
+            "topCoins": [
+              "binancecoin",
+              "tron",
+              "the-open-network"
+            ],
+            "fdvChange": null,
+            "heatScore": 10.3,
+            "marketCap": 120692820909,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 0.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/binance-launchpool",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Binance Launchpool",
+            "topCoins": [
+              "sui",
+              "ethena",
+              "ether-fi"
+            ],
+            "fdvChange": null,
+            "heatScore": 10.1,
+            "marketCap": 5045667683,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 0.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/x402-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "x402 Ecosystem",
+            "topCoins": [
+              "chainlink",
+              "unibase",
+              "eigenlayer"
+            ],
+            "fdvChange": null,
+            "heatScore": 9.8,
+            "marketCap": 6697217064,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.2,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/gambling",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Gambling",
+            "topCoins": [
+              "rain",
+              "bc-token",
+              "shuffle-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 9.6,
+            "marketCap": 10686739560,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.4,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/virtuals-protocol-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Virtuals Protocol Ecosystem",
+            "topCoins": [
+              "virtual-protocol",
+              "ribbita-by-virtuals",
+              "robo-token-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 9.2,
+            "marketCap": 594609632,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/decentralized-derivatives",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Derivatives",
+            "topCoins": [
+              "hyperliquid",
+              "lighter",
+              "ethgas-2"
+            ],
+            "fdvChange": null,
+            "heatScore": 8.6,
+            "marketCap": 17626911592,
+            "revenue7d": 20128907,
+            "revenue24h": 2616962,
+            "priceChange24h": -1.4,
+            "revenueMomentum": -9
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ai-meme-coins",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "AI",
+            "topCoins": [
+              "fartcoin",
+              "ribbita-by-virtuals",
+              "turbo"
+            ],
+            "fdvChange": 6.3,
+            "heatScore": 8.5,
+            "marketCap": 751639091,
+            "revenue7d": 33832,
+            "revenue24h": 5119,
+            "priceChange24h": -1.5,
+            "revenueMomentum": 5.9
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/pump-fun",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Pump.fun Ecosystem",
+            "topCoins": [
+              "fartcoin",
+              "the-black-bull",
+              "would"
+            ],
+            "fdvChange": null,
+            "heatScore": 8.5,
+            "marketCap": 1730094612,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -1.5,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ai-applications",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "AI Applications",
+            "topCoins": [
+              "venice-token",
+              "velvet",
+              "pieverse"
+            ],
+            "fdvChange": null,
+            "heatScore": 8.4,
+            "marketCap": 1817267446,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -1.6,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/ai-framework",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "AI Framework",
+            "topCoins": [
+              "virtual-protocol",
+              "unibase",
+              "eigenlayer"
+            ],
+            "fdvChange": null,
+            "heatScore": 7.8,
+            "marketCap": 1587233264,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -2.2,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/tap-to-earn",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Tap to Earn",
+            "topCoins": [
+              "notcoin",
+              "catizen",
+              "hamster-kombat"
+            ],
+            "fdvChange": null,
+            "heatScore": 6.9,
+            "marketCap": 97757522,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 6.9,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/restaking",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Liquid Restaking",
+            "topCoins": [
+              "wrapped-eeth",
+              "kelp-dao-restaked-eth",
+              "lombard-staked-btc"
+            ],
+            "fdvChange": null,
+            "heatScore": 4.4,
+            "marketCap": 981120996,
+            "revenue7d": 246108,
+            "revenue24h": 4375,
+            "priceChange24h": 4.4,
+            "revenueMomentum": -87.6
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/gaming-marketplace",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Gaming Marketplace",
+            "topCoins": [
+              "immutable-x",
+              "overtake",
+              "open-loot"
+            ],
+            "fdvChange": null,
+            "heatScore": 4.4,
+            "marketCap": 131671001,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 4.4,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/music",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Music",
+            "topCoins": [
+              "ravedao",
+              "audius",
+              "beatswap"
+            ],
+            "fdvChange": null,
+            "heatScore": 4,
+            "marketCap": 106600246,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 4,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/decentralized-finance-defi",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "DeFi",
+            "topCoins": [
+              "staked-ether",
+              "hyperliquid",
+              "rain"
+            ],
+            "fdvChange": 7.7,
+            "heatScore": 3.6,
+            "marketCap": 70922658979,
+            "revenue7d": 34272722,
+            "revenue24h": 4480496,
+            "priceChange24h": 3.6,
+            "revenueMomentum": -8.5
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/dex-aggregator",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Dex Aggregator",
+            "topCoins": [
+              "jupiter-exchange-solana",
+              "1inch",
+              "home"
+            ],
+            "fdvChange": null,
+            "heatScore": -2.8,
+            "marketCap": 1055388871,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -2.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/brc-20",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "BRC-20",
+            "topCoins": [
+              "ordinals",
+              "sats-ordinals",
+              "multibit"
+            ],
+            "fdvChange": null,
+            "heatScore": -2.8,
+            "marketCap": 94636353,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -2.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/parody-meme-coins",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Parody Meme",
+            "topCoins": [
+              "would",
+              "troll-2",
+              "memecoin-3"
+            ],
+            "fdvChange": null,
+            "heatScore": -3,
+            "marketCap": 186967671,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/tiktok-meme",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "TikTok Meme",
+            "topCoins": [
+              "moo-deng",
+              "tung-tung-tung-sahur-2",
+              "chill-guy"
+            ],
+            "fdvChange": null,
+            "heatScore": -3.4,
+            "marketCap": 81971062,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -3.4,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/bridge-governance-tokens",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Bridge Governance Tokens",
+            "topCoins": [
+              "thorchain",
+              "debridge",
+              "synapse-2"
+            ],
+            "fdvChange": 0.1,
+            "heatScore": -4.1,
+            "marketCap": 446945081,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -4.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/binance-buildkey-tge",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Binance Buildkey TGE",
+            "topCoins": [
+              "river",
+              "zkpass",
+              "fight-2"
+            ],
+            "fdvChange": null,
+            "heatScore": -4.3,
+            "marketCap": 96736508,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -4.3,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/intent",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Intent",
+            "topCoins": [
+              "cow-protocol",
+              "debridge",
+              "synapse-2"
+            ],
+            "fdvChange": null,
+            "heatScore": -5.4,
+            "marketCap": 329860405,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -5.4,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/terminal-of-truths",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Terminal of Truths",
+            "topCoins": [
+              "fartcoin",
+              "goatseus-maximus",
+              "aiwithdaddyissues"
+            ],
+            "fdvChange": null,
+            "heatScore": -6.8,
+            "marketCap": 174041515,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -6.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/venice-ecosystem",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Venice Ecosystem",
+            "topCoins": [
+              "venice-token",
+              "diem",
+              "dolphin-2"
+            ],
+            "fdvChange": null,
+            "heatScore": -8.1,
+            "marketCap": 655876115,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -8.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://www.coingecko.com/en/categories/olympus-pro",
+                "label": "CoinGecko"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Olympus Pro Ecosystem",
+            "topCoins": [
+              "synapse-2",
+              "spell-token",
+              "thorswap"
+            ],
+            "fdvChange": null,
+            "heatScore": -11.7,
+            "marketCap": 143268026,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -11.7,
+            "revenueMomentum": null
+          }
+        ]
+      },
+      "onchain": {
+        "hot": [
+          {
+            "note": "Spark Protocol lập đỉnh doanh thu nhờ cơ chế phân bổ vốn hiệu quả qua các nền tảng như Morpho và Ethena, khẳng định tính bền vững của các mô hình tạo yield thực.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://www.panewslab.com/en/articles/t022p7ljig11",
+                "label": "panewslab.com"
+              },
+              {
+                "url": "https://defillama.com/protocols/onchain-capital-allocator",
+                "label": "defillama.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Onchain Capital Allocator",
+            "fdvChange": null,
+            "heatScore": 51.2,
+            "marketCap": null,
+            "revenue7d": 5811899,
+            "revenue24h": 1254960,
+            "priceChange24h": null,
+            "revenueMomentum": 51.2
+          },
+          {
+            "note": "Jupiter và 1inch tiếp tục thống trị thị phần; sự bùng nổ của các meme coin và creator token đang tạo ra khối lượng giao dịch đột biến, thúc đẩy doanh thu trực tiếp.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://solanafloor.com/news/jupiter-reclaims-dominance-with-93-6-market-share-in-solana-s-aggregator-landscape",
+                "label": "solanafloor.com"
+              },
+              {
+                "url": "https://defillama.com/dexs",
+                "label": "defillama.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "DEX Aggregator",
+            "fdvChange": null,
+            "heatScore": 35.8,
+            "marketCap": null,
+            "revenue7d": 1202095,
+            "revenue24h": 233181,
+            "priceChange24h": null,
+            "revenueMomentum": 35.8
+          },
+          {
+            "note": "Thị trường ghi nhận sự hồi phục về mặt chỉ số doanh thu marketplace, gợi ý về việc các tiện ích (utility) thực tế đang bắt đầu thu hút sự quan tâm từ các nhà đầu tư tổ chức.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": "https://www.kucoin.com/news/flash/nft-market-shows-signs-of-recovery-in-2026-amidst-lingering-challenges",
+                "label": "kucoin.com"
+              },
+              {
+                "url": "https://earnpark.com/en/posts/nft-market-2026-dead-or-just-different/",
+                "label": "earnpark.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "NFT",
+            "topCoins": [
+              "blur",
+              "magic-eden",
+              "collect-on-fanable"
+            ],
+            "fdvChange": 9.5,
+            "heatScore": 32.8,
+            "marketCap": 145837800,
+            "revenue7d": 4628188,
+            "revenue24h": 958982,
+            "priceChange24h": -1.5,
+            "revenueMomentum": 45
+          },
+          {
+            "note": "Tương tự thị trường chung, doanh thu on-chain tăng mạnh chứng minh nhu cầu thực đối với các dự án mới trong bối cảnh các KOL đẩy mạnh mô hình creator token.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://coinmarketcap.com/cmc-ai/pump-fun/latest-updates/",
+                "label": "coinmarketcap.com"
+              },
+              {
+                "url": "https://cryptoslate.com/launchpads/",
+                "label": "cryptoslate.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Launchpad",
+            "topCoins": [
+              "lab",
+              "jupiter-exchange-solana",
+              "pump-fun"
+            ],
+            "fdvChange": null,
+            "heatScore": 28.2,
+            "marketCap": 7965579372,
+            "revenue7d": 7156840,
+            "revenue24h": 1310245,
+            "priceChange24h": 54.4,
+            "revenueMomentum": 28.2
+          },
+          {
+            "note": "Bản nâng cấp Saturn One của Rocket Pool (tháng 2/2026) giúp tối ưu hóa yêu cầu vốn cho node operator và kích hoạt cơ chế chia sẻ phí trực tiếp, thay đổi mô hình kinh tế của token RPL.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://coinbureau.com/analysis/best-defi-staking-platforms",
+                "label": "coinbureau.com"
+              },
+              {
+                "url": "https://coinmarketcap.com/cmc-ai/rocket-pool/price-prediction/",
+                "label": "coinmarketcap.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Staking Pool",
+            "fdvChange": null,
+            "heatScore": 26.4,
+            "marketCap": null,
+            "revenue7d": 10349064,
+            "revenue24h": 1868722,
+            "priceChange24h": null,
+            "revenueMomentum": 26.4
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Wallets",
+            "topCoins": [
+              "kaspa",
+              "beldex",
+              "telcoin"
+            ],
+            "fdvChange": null,
+            "heatScore": 19.9,
+            "marketCap": 2738754181,
+            "revenue7d": 2271801,
+            "revenue24h": 389153,
+            "priceChange24h": -0.5,
+            "revenueMomentum": 19.9
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Chain",
+            "fdvChange": null,
+            "heatScore": 17.1,
+            "marketCap": null,
+            "revenue7d": 25603790,
+            "revenue24h": 4284437,
+            "priceChange24h": null,
+            "revenueMomentum": 17.1
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Memes",
+            "topCoins": [
+              "dogecoin",
+              "shiba-inu",
+              "memecore"
+            ],
+            "fdvChange": 16.7,
+            "heatScore": 16.7,
+            "marketCap": 27590572013,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.5,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Stablecoin Issuer",
+            "topCoins": [
+              "world-liberty-financial",
+              "aave",
+              "sky"
+            ],
+            "fdvChange": null,
+            "heatScore": 16.3,
+            "marketCap": 6270917855,
+            "revenue7d": 139413063,
+            "revenue24h": 23167389,
+            "priceChange24h": 0.2,
+            "revenueMomentum": 16.3
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Prediction Market",
+            "fdvChange": null,
+            "heatScore": 16,
+            "marketCap": null,
+            "revenue7d": 12223909,
+            "revenue24h": 2025448,
+            "priceChange24h": null,
+            "revenueMomentum": 16
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Solana",
+            "fdvChange": 15.5,
+            "heatScore": 15.5,
+            "marketCap": null,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": null,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "SoFi",
+            "fdvChange": null,
+            "heatScore": 15,
+            "marketCap": null,
+            "revenue7d": 678535,
+            "revenue24h": 111482,
+            "priceChange24h": null,
+            "revenueMomentum": 15
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Ethereum",
+            "fdvChange": 13.7,
+            "heatScore": 13.7,
+            "marketCap": null,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": null,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "CDP",
+            "fdvChange": null,
+            "heatScore": 13.6,
+            "marketCap": null,
+            "revenue7d": 6362991,
+            "revenue24h": 1032987,
+            "priceChange24h": null,
+            "revenueMomentum": 13.6
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Cross Chain Bridge",
+            "fdvChange": null,
+            "heatScore": 13.5,
+            "marketCap": null,
+            "revenue7d": 839565,
+            "revenue24h": 136126,
+            "priceChange24h": null,
+            "revenueMomentum": 13.5
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "PolitiFi",
+            "topCoins": [
+              "official-trump",
+              "melania-meme",
+              "constitutiondao"
+            ],
+            "fdvChange": 12.8,
+            "heatScore": 12.8,
+            "marketCap": 557054690,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 1.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Coins Tracker",
+            "fdvChange": null,
+            "heatScore": 11.5,
+            "marketCap": null,
+            "revenue7d": 957123,
+            "revenue24h": 152388,
+            "priceChange24h": null,
+            "revenueMomentum": 11.5
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Oracle",
+            "topCoins": [
+              "chainlink",
+              "pyth-network",
+              "xyo-network"
+            ],
+            "fdvChange": 10.8,
+            "heatScore": 10.8,
+            "marketCap": 6686554874,
+            "revenue7d": 784404,
+            "revenue24h": 41362,
+            "priceChange24h": 0,
+            "revenueMomentum": -63.1
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Gamified Mining",
+            "fdvChange": null,
+            "heatScore": 10.5,
+            "marketCap": null,
+            "revenue7d": 1358300,
+            "revenue24h": 214419,
+            "priceChange24h": null,
+            "revenueMomentum": 10.5
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Layer 2",
+            "topCoins": [
+              "arbitrum",
+              "optimism",
+              "starknet"
+            ],
+            "fdvChange": 9.9,
+            "heatScore": 9.9,
+            "marketCap": 1387899123,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Gaming",
+            "topCoins": [
+              "floki",
+              "axie-infinity",
+              "decentraland"
+            ],
+            "fdvChange": 9.8,
+            "heatScore": 9.8,
+            "marketCap": 1696731150,
+            "revenue7d": 137934,
+            "revenue24h": 21172,
+            "priceChange24h": 0.1,
+            "revenueMomentum": 7.4
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Risk Curators",
+            "fdvChange": null,
+            "heatScore": 9.2,
+            "marketCap": null,
+            "revenue7d": 4023134,
+            "revenue24h": 627543,
+            "priceChange24h": null,
+            "revenueMomentum": 9.2
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Physical TCG",
+            "fdvChange": null,
+            "heatScore": 8.6,
+            "marketCap": null,
+            "revenue7d": 4045034,
+            "revenue24h": 627512,
+            "priceChange24h": null,
+            "revenueMomentum": 8.6
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Data Availability",
+            "topCoins": [
+              "near",
+              "celestia",
+              "unibase"
+            ],
+            "fdvChange": 8,
+            "heatScore": 8,
+            "marketCap": 3391153758,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -2.8,
+            "revenueMomentum": null
+          }
+        ],
+        "cold": [
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Liquid Staking",
+            "topCoins": [
+              "staked-ether",
+              "wrapped-steth",
+              "wrapped-beacon-eth"
+            ],
+            "fdvChange": null,
+            "heatScore": -8.3,
+            "marketCap": 1725651679,
+            "revenue7d": 17588540,
+            "revenue24h": 2303338,
+            "priceChange24h": 0.2,
+            "revenueMomentum": -8.3
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Derivatives",
+            "topCoins": [
+              "hyperliquid",
+              "lighter",
+              "ethgas-2"
+            ],
+            "fdvChange": null,
+            "heatScore": -9,
+            "marketCap": 17626911592,
+            "revenue7d": 20128907,
+            "revenue24h": 2616962,
+            "priceChange24h": -1.4,
+            "revenueMomentum": -9
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Developer Tools",
+            "fdvChange": null,
+            "heatScore": -9.8,
+            "marketCap": null,
+            "revenue7d": 1169528,
+            "revenue24h": 150670,
+            "priceChange24h": null,
+            "revenueMomentum": -9.8
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Lending",
+            "fdvChange": null,
+            "heatScore": -14.1,
+            "marketCap": null,
+            "revenue7d": 20677039,
+            "revenue24h": 2536448,
+            "priceChange24h": null,
+            "revenueMomentum": -14.1
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "RWA",
+            "topCoins": [
+              "hashnote-usyc",
+              "tether-gold",
+              "blackrock-usd-institutional-digital-liquidity-fund"
+            ],
+            "fdvChange": 3.3,
+            "heatScore": -18.4,
+            "marketCap": 21143729146,
+            "revenue7d": 12867451,
+            "revenue24h": 1295195,
+            "priceChange24h": 0,
+            "revenueMomentum": -29.5
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Yield",
+            "topCoins": [
+              "convex-finance",
+              "yearn-finance",
+              "inverse-finance"
+            ],
+            "fdvChange": null,
+            "heatScore": -60,
+            "marketCap": 237551341,
+            "revenue7d": 2921465,
+            "revenue24h": 100321,
+            "priceChange24h": 0.7,
+            "revenueMomentum": -76
+          }
+        ],
+        "heatmap": [
+          {
+            "note": "Spark Protocol lập đỉnh doanh thu nhờ cơ chế phân bổ vốn hiệu quả qua các nền tảng như Morpho và Ethena, khẳng định tính bền vững của các mô hình tạo yield thực.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://www.panewslab.com/en/articles/t022p7ljig11",
+                "label": "panewslab.com"
+              },
+              {
+                "url": "https://defillama.com/protocols/onchain-capital-allocator",
+                "label": "defillama.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Onchain Capital Allocator",
+            "fdvChange": null,
+            "heatScore": 51.2,
+            "marketCap": null,
+            "revenue7d": 5811899,
+            "revenue24h": 1254960,
+            "priceChange24h": null,
+            "revenueMomentum": 51.2
+          },
+          {
+            "note": "Jupiter và 1inch tiếp tục thống trị thị phần; sự bùng nổ của các meme coin và creator token đang tạo ra khối lượng giao dịch đột biến, thúc đẩy doanh thu trực tiếp.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://solanafloor.com/news/jupiter-reclaims-dominance-with-93-6-market-share-in-solana-s-aggregator-landscape",
+                "label": "solanafloor.com"
+              },
+              {
+                "url": "https://defillama.com/dexs",
+                "label": "defillama.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "DEX Aggregator",
+            "fdvChange": null,
+            "heatScore": 35.8,
+            "marketCap": null,
+            "revenue7d": 1202095,
+            "revenue24h": 233181,
+            "priceChange24h": null,
+            "revenueMomentum": 35.8
+          },
+          {
+            "note": "Thị trường ghi nhận sự hồi phục về mặt chỉ số doanh thu marketplace, gợi ý về việc các tiện ích (utility) thực tế đang bắt đầu thu hút sự quan tâm từ các nhà đầu tư tổ chức.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": "https://www.kucoin.com/news/flash/nft-market-shows-signs-of-recovery-in-2026-amidst-lingering-challenges",
+                "label": "kucoin.com"
+              },
+              {
+                "url": "https://earnpark.com/en/posts/nft-market-2026-dead-or-just-different/",
+                "label": "earnpark.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "NFT",
+            "topCoins": [
+              "blur",
+              "magic-eden",
+              "collect-on-fanable"
+            ],
+            "fdvChange": 9.5,
+            "heatScore": 32.8,
+            "marketCap": 145837800,
+            "revenue7d": 4628188,
+            "revenue24h": 958982,
+            "priceChange24h": -1.5,
+            "revenueMomentum": 45
+          },
+          {
+            "note": "Tương tự thị trường chung, doanh thu on-chain tăng mạnh chứng minh nhu cầu thực đối với các dự án mới trong bối cảnh các KOL đẩy mạnh mô hình creator token.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://coinmarketcap.com/cmc-ai/pump-fun/latest-updates/",
+                "label": "coinmarketcap.com"
+              },
+              {
+                "url": "https://cryptoslate.com/launchpads/",
+                "label": "cryptoslate.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Launchpad",
+            "topCoins": [
+              "lab",
+              "jupiter-exchange-solana",
+              "pump-fun"
+            ],
+            "fdvChange": null,
+            "heatScore": 28.2,
+            "marketCap": 7965579372,
+            "revenue7d": 7156840,
+            "revenue24h": 1310245,
+            "priceChange24h": 54.4,
+            "revenueMomentum": 28.2
+          },
+          {
+            "note": "Bản nâng cấp Saturn One của Rocket Pool (tháng 2/2026) giúp tối ưu hóa yêu cầu vốn cho node operator và kích hoạt cơ chế chia sẻ phí trực tiếp, thay đổi mô hình kinh tế của token RPL.",
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://coinbureau.com/analysis/best-defi-staking-platforms",
+                "label": "coinbureau.com"
+              },
+              {
+                "url": "https://coinmarketcap.com/cmc-ai/rocket-pool/price-prediction/",
+                "label": "coinmarketcap.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Staking Pool",
+            "fdvChange": null,
+            "heatScore": 26.4,
+            "marketCap": null,
+            "revenue7d": 10349064,
+            "revenue24h": 1868722,
+            "priceChange24h": null,
+            "revenueMomentum": 26.4
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Wallets",
+            "topCoins": [
+              "kaspa",
+              "beldex",
+              "telcoin"
+            ],
+            "fdvChange": null,
+            "heatScore": 19.9,
+            "marketCap": 2738754181,
+            "revenue7d": 2271801,
+            "revenue24h": 389153,
+            "priceChange24h": -0.5,
+            "revenueMomentum": 19.9
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Chain",
+            "fdvChange": null,
+            "heatScore": 17.1,
+            "marketCap": null,
+            "revenue7d": 25603790,
+            "revenue24h": 4284437,
+            "priceChange24h": null,
+            "revenueMomentum": 17.1
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Memes",
+            "topCoins": [
+              "dogecoin",
+              "shiba-inu",
+              "memecore"
+            ],
+            "fdvChange": 16.7,
+            "heatScore": 16.7,
+            "marketCap": 27590572013,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.5,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Stablecoin Issuer",
+            "topCoins": [
+              "world-liberty-financial",
+              "aave",
+              "sky"
+            ],
+            "fdvChange": null,
+            "heatScore": 16.3,
+            "marketCap": 6270917855,
+            "revenue7d": 139413063,
+            "revenue24h": 23167389,
+            "priceChange24h": 0.2,
+            "revenueMomentum": 16.3
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Prediction Market",
+            "fdvChange": null,
+            "heatScore": 16,
+            "marketCap": null,
+            "revenue7d": 12223909,
+            "revenue24h": 2025448,
+            "priceChange24h": null,
+            "revenueMomentum": 16
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Solana",
+            "fdvChange": 15.5,
+            "heatScore": 15.5,
+            "marketCap": null,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": null,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "SoFi",
+            "fdvChange": null,
+            "heatScore": 15,
+            "marketCap": null,
+            "revenue7d": 678535,
+            "revenue24h": 111482,
+            "priceChange24h": null,
+            "revenueMomentum": 15
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Ethereum",
+            "fdvChange": 13.7,
+            "heatScore": 13.7,
+            "marketCap": null,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": null,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "CDP",
+            "fdvChange": null,
+            "heatScore": 13.6,
+            "marketCap": null,
+            "revenue7d": 6362991,
+            "revenue24h": 1032987,
+            "priceChange24h": null,
+            "revenueMomentum": 13.6
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Cross Chain Bridge",
+            "fdvChange": null,
+            "heatScore": 13.5,
+            "marketCap": null,
+            "revenue7d": 839565,
+            "revenue24h": 136126,
+            "priceChange24h": null,
+            "revenueMomentum": 13.5
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "PolitiFi",
+            "topCoins": [
+              "official-trump",
+              "melania-meme",
+              "constitutiondao"
+            ],
+            "fdvChange": 12.8,
+            "heatScore": 12.8,
+            "marketCap": 557054690,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 1.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Coins Tracker",
+            "fdvChange": null,
+            "heatScore": 11.5,
+            "marketCap": null,
+            "revenue7d": 957123,
+            "revenue24h": 152388,
+            "priceChange24h": null,
+            "revenueMomentum": 11.5
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Oracle",
+            "topCoins": [
+              "chainlink",
+              "pyth-network",
+              "xyo-network"
+            ],
+            "fdvChange": 10.8,
+            "heatScore": 10.8,
+            "marketCap": 6686554874,
+            "revenue7d": 784404,
+            "revenue24h": 41362,
+            "priceChange24h": 0,
+            "revenueMomentum": -63.1
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Gamified Mining",
+            "fdvChange": null,
+            "heatScore": 10.5,
+            "marketCap": null,
+            "revenue7d": 1358300,
+            "revenue24h": 214419,
+            "priceChange24h": null,
+            "revenueMomentum": 10.5
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Layer 2",
+            "topCoins": [
+              "arbitrum",
+              "optimism",
+              "starknet"
+            ],
+            "fdvChange": 9.9,
+            "heatScore": 9.9,
+            "marketCap": 1387899123,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -0.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Gaming",
+            "topCoins": [
+              "floki",
+              "axie-infinity",
+              "decentraland"
+            ],
+            "fdvChange": 9.8,
+            "heatScore": 9.8,
+            "marketCap": 1696731150,
+            "revenue7d": 137934,
+            "revenue24h": 21172,
+            "priceChange24h": 0.1,
+            "revenueMomentum": 7.4
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Risk Curators",
+            "fdvChange": null,
+            "heatScore": 9.2,
+            "marketCap": null,
+            "revenue7d": 4023134,
+            "revenue24h": 627543,
+            "priceChange24h": null,
+            "revenueMomentum": 9.2
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Physical TCG",
+            "fdvChange": null,
+            "heatScore": 8.6,
+            "marketCap": null,
+            "revenue7d": 4045034,
+            "revenue24h": 627512,
+            "priceChange24h": null,
+            "revenueMomentum": 8.6
+          },
+          {
+            "bucket": "hot",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Data Availability",
+            "topCoins": [
+              "near",
+              "celestia",
+              "unibase"
+            ],
+            "fdvChange": 8,
+            "heatScore": 8,
+            "marketCap": 3391153758,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -2.8,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Layer 1",
+            "topCoins": [
+              "bitcoin",
+              "ethereum",
+              "binancecoin"
+            ],
+            "fdvChange": 7.8,
+            "heatScore": 7.8,
+            "marketCap": 1798207729373,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 0.7,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "AI",
+            "topCoins": [
+              "fartcoin",
+              "ribbita-by-virtuals",
+              "turbo"
+            ],
+            "fdvChange": 6.3,
+            "heatScore": 6.3,
+            "marketCap": 751639091,
+            "revenue7d": 33832,
+            "revenue24h": 5119,
+            "priceChange24h": -1.5,
+            "revenueMomentum": 5.9
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "SocialFi",
+            "topCoins": [
+              "pump-fun",
+              "reallink",
+              "swop-2"
+            ],
+            "fdvChange": 6.3,
+            "heatScore": 6.3,
+            "marketCap": 1311565495,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -2.1,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Bitcoin",
+            "fdvChange": 6.3,
+            "heatScore": 6.3,
+            "marketCap": null,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": null,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "DePIN",
+            "topCoins": [
+              "bittensor",
+              "render-token",
+              "beldex"
+            ],
+            "fdvChange": 6,
+            "heatScore": 6,
+            "marketCap": 7990175433,
+            "revenue7d": 58830,
+            "revenue24h": 3273,
+            "priceChange24h": -0.4,
+            "revenueMomentum": -61.1
+          },
+          {
+            "bucket": "warm",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Centralized Exchange Token",
+            "topCoins": [
+              "binancecoin",
+              "leo-token",
+              "whitebit"
+            ],
+            "fdvChange": 5.3,
+            "heatScore": 5.3,
+            "marketCap": 103355104141,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 0,
+            "revenueMomentum": null
+          },
+          {
+            "note": "Nhu cầu đọc dữ liệu smart money và theo dõi dòng tiền bùng nổ theo sóng meme và launchpad, các token thuộc nhóm công cụ phân tích on-chain được tranh thủ mua trước khi thị trường tăng tiếp.",
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": "https://nansen.ai/post/top-crypto-analytics-platforms-2025",
+                "label": "nansen.ai"
+              },
+              {
+                "url": "https://coincub.com/blog/best-crypto-analysis-tools/",
+                "label": "coincub.com"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Analytics",
+            "topCoins": [
+              "lab",
+              "pyth-network",
+              "the-graph"
+            ],
+            "fdvChange": -2.3,
+            "heatScore": -2.3,
+            "marketCap": 6189146303,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": 87,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Decentralized Identifier",
+            "topCoins": [
+              "worldcoin-wld",
+              "ethereum-name-service",
+              "bas"
+            ],
+            "fdvChange": -2.4,
+            "heatScore": -2.4,
+            "marketCap": 2232791864,
+            "revenue7d": null,
+            "revenue24h": null,
+            "priceChange24h": -1.2,
+            "revenueMomentum": null
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "DeFi",
+            "topCoins": [
+              "staked-ether",
+              "hyperliquid",
+              "rain"
+            ],
+            "fdvChange": 7.7,
+            "heatScore": -3.1,
+            "marketCap": 70922658979,
+            "revenue7d": 34272722,
+            "revenue24h": 4480496,
+            "priceChange24h": 3.6,
+            "revenueMomentum": -8.5
+          },
+          {
+            "bucket": "neutral",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Crypto Card Issuer",
+            "topCoins": [
+              "crypto-com-chain",
+              "nexo",
+              "wirex"
+            ],
+            "fdvChange": null,
+            "heatScore": -4.1,
+            "marketCap": 3574334580,
+            "revenue7d": 857912,
+            "revenue24h": 117538,
+            "priceChange24h": -0.1,
+            "revenueMomentum": -4.1
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Liquid Staking",
+            "topCoins": [
+              "staked-ether",
+              "wrapped-steth",
+              "wrapped-beacon-eth"
+            ],
+            "fdvChange": null,
+            "heatScore": -8.3,
+            "marketCap": 1725651679,
+            "revenue7d": 17588540,
+            "revenue24h": 2303338,
+            "priceChange24h": 0.2,
+            "revenueMomentum": -8.3
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Derivatives",
+            "topCoins": [
+              "hyperliquid",
+              "lighter",
+              "ethgas-2"
+            ],
+            "fdvChange": null,
+            "heatScore": -9,
+            "marketCap": 17626911592,
+            "revenue7d": 20128907,
+            "revenue24h": 2616962,
+            "priceChange24h": -1.4,
+            "revenueMomentum": -9
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Developer Tools",
+            "fdvChange": null,
+            "heatScore": -9.8,
+            "marketCap": null,
+            "revenue7d": 1169528,
+            "revenue24h": 150670,
+            "priceChange24h": null,
+            "revenueMomentum": -9.8
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Lending",
+            "fdvChange": null,
+            "heatScore": -14.1,
+            "marketCap": null,
+            "revenue7d": 20677039,
+            "revenue24h": 2536448,
+            "priceChange24h": null,
+            "revenueMomentum": -14.1
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": "https://defillama.com/narrative-tracker",
+                "label": "DefiLlama Narrative Tracker"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "RWA",
+            "topCoins": [
+              "hashnote-usyc",
+              "tether-gold",
+              "blackrock-usd-institutional-digital-liquidity-fund"
+            ],
+            "fdvChange": 3.3,
+            "heatScore": -18.4,
+            "marketCap": 21143729146,
+            "revenue7d": 12867451,
+            "revenue24h": 1295195,
+            "priceChange24h": 0,
+            "revenueMomentum": -29.5
+          },
+          {
+            "bucket": "cold",
+            "sources": [
+              {
+                "url": "https://defillama.com/fees",
+                "label": "DefiLlama Fees"
+              },
+              {
+                "url": null,
+                "label": "GFI research"
+              }
+            ],
+            "category": "Yield",
+            "topCoins": [
+              "convex-finance",
+              "yearn-finance",
+              "inverse-finance"
+            ],
+            "fdvChange": null,
+            "heatScore": -60,
+            "marketCap": 237551341,
+            "revenue7d": 2921465,
+            "revenue24h": 100321,
+            "priceChange24h": 0.7,
+            "revenueMomentum": -76
+          }
+        ]
+      },
+      "analysis": "Thị trường ngày 5/7 đang vận hành trong trạng thái phân hóa mạnh giữa tâm lý 'Sợ hãi tột độ' và các dòng tiền đầu cơ cục bộ. Trong khi sự thận trọng bao trùm lên các tài sản chính do áp lực thanh lý, dòng tiền 'smart money' vẫn tích cực dịch chuyển vào các narrative có khả năng tạo ra doanh thu thực (Onchain Capital Allocator, Staking Pool) và các xu hướng meme dựa trên yếu tố văn hóa cộng đồng (Chinese Meme, Four.meme). Sự tăng trưởng đồng pha của cả giá và doanh thu tại các nền tảng Launchpad cho thấy sự tiếp nhận thực tế từ người dùng, chứ không đơn thuần là đợt sóng FOMO ngắn hạn. Các tín hiệu từ nhóm NFT cũng cho thấy sự phục hồi về mặt fundamental, dù giá token chưa phản ánh tương xứng, mở ra các vùng giá tích lũy tiềm năng cho các nhà đầu tư dài hạn thay vì chạy theo momentum ngắn hạn.",
+      "contentAngles": [
+        "Giải mã sự phân hóa dòng tiền: Tại sao Launchpad lại trở thành 'bến đỗ' vừa an toàn về mặt doanh thu cơ bản, vừa hấp dẫn về mặt đầu cơ trong bối cảnh thị trường Sợ hãi tột độ?",
+        "Phân tích chiến lược phân bổ vốn vào các protocol tạo yield thực (Spark, Rocket Pool) so với các meme cycle ngắn hạn: Lựa chọn nào tối ưu hóa rủi ro trong môi trường biến động?",
+        "NFT đang âm thầm phục hồi hay chỉ là nhịp hồi kỹ thuật? Góc nhìn từ dữ liệu doanh thu on-chain và sự khác biệt giữa các hệ sinh thái dẫn đầu."
+      ]
+    },
+    "status": "ok",
+    "disclaimer": "Educational/informational only — not investment advice. Numbers are code-owned; prose is GFI research.",
+    "generatedAt": "2026-07-05T00:27:47.392Z",
+    "schemaVersion": "1.0",
+    "image": "heatmap_2026-07-06_01-56-45.jpg"
+  },
+  {
+    "source": "sentiment",
+    "signal": {
+      "date": "05/07",
+      "sources": [
+        {
+          "url": "https://alternative.me/crypto/fear-and-greed-index/",
+          "label": "Fear & Greed Index (alternative.me)"
+        },
+        {
+          "url": null,
+          "label": "GFI research"
+        }
+      ],
+      "tickers": {
+        "date": "2026-07-04",
+        "fresh": [
+          {
+            "recap": "Kỳ vọng về sự đảo chiều xu hướng giá đang là chủ đề nổi bật được cộng đồng theo đuổi.",
+            "symbol": "$ADA"
+          }
+        ],
+        "rising": [
+          {
+            "recap": "Dòng thảo luận chủ yếu tập trung vào các nội dung tiếp thị tài khoản sàn.",
+            "symbol": "$MNT",
+            "pctChange": 600
+          },
+          {
+            "recap": "Lo ngại về chính sách dịch vụ tại châu Âu đang ảnh hưởng tới tâm lý người dùng.",
+            "symbol": "$USDT",
+            "pctChange": 80
+          },
+          {
+            "recap": "Sự quan tâm tăng vọt nhờ sức nóng từ các dự án meme coin trong hệ sinh thái.",
+            "symbol": "$TON",
+            "pctChange": 67
+          },
+          {
+            "recap": "Cộng đồng đang theo dõi sát sao dữ liệu on-chain và các biến động thanh lý lớn.",
+            "symbol": "$BNB",
+            "pctChange": 57
+          }
+        ],
+        "topVolume": [
+          {
+            "recap": "Thị trường đang lo ngại khả năng điều chỉnh về các vùng hỗ trợ thấp hơn khi áp lực bán tăng cao.",
+            "symbol": "$BTC",
+            "dominant": "neutral",
+            "breakdown": [
+              {
+                "pct": 49,
+                "label": "Neutral"
+              },
+              {
+                "pct": 46,
+                "label": "Bearish"
+              },
+              {
+                "pct": 5,
+                "label": "Bullish"
+              }
+            ]
+          },
+          {
+            "recap": "Cộng đồng đang tập trung theo dõi các ngưỡng kỹ thuật quan trọng sau các lệnh thanh lý lớn.",
+            "symbol": "$ETH",
+            "dominant": "bullish",
+            "breakdown": [
+              {
+                "pct": 83,
+                "label": "Bullish"
+              },
+              {
+                "pct": 11,
+                "label": "Neutral"
+              },
+              {
+                "pct": 6,
+                "label": "Bearish"
+              }
+            ]
+          },
+          {
+            "recap": "Sự quan tâm đổ dồn vào các chuyển động ví cá voi và hoạt động thanh lý trên hệ sinh thái.",
+            "symbol": "$BNB",
+            "dominant": "neutral",
+            "breakdown": [
+              {
+                "pct": 100,
+                "label": "Neutral"
+              }
+            ]
+          },
+          {
+            "recap": "Thảo luận xoay quanh các yếu tố cơ bản như quản trị token, phí giao dịch và tiềm năng phát triển DeFi.",
+            "symbol": "$SOL",
+            "dominant": "neutral",
+            "breakdown": [
+              {
+                "pct": 73,
+                "label": "Neutral"
+              },
+              {
+                "pct": 20,
+                "label": "Bullish"
+              },
+              {
+                "pct": 7,
+                "label": "Bearish"
+              }
+            ]
+          },
+          {
+            "recap": "Cộng đồng đang bày tỏ lo ngại về tính ổn định và các rào cản pháp lý mới trong giao dịch P2P.",
+            "symbol": "$USDT",
+            "dominant": "bearish",
+            "breakdown": [
+              {
+                "pct": 100,
+                "label": "Bearish"
+              }
+            ]
+          },
+          {
+            "recap": "Phần lớn lưu lượng thảo luận hiện tại đang bị nhiễu bởi các hoạt động quảng bá.",
+            "symbol": "$MNT",
+            "dominant": "neutral",
+            "breakdown": [
+              {
+                "pct": 100,
+                "label": "Neutral"
+              }
+            ]
+          },
+          {
+            "recap": "Hệ sinh thái đang thu hút dòng tiền nhờ trào lưu meme coin và các thảo luận về cấu trúc niêm yết.",
+            "symbol": "$TON",
+            "dominant": "bullish",
+            "breakdown": [
+              {
+                "pct": 60,
+                "label": "Bullish"
+              },
+              {
+                "pct": 40,
+                "label": "Bearish"
+              }
+            ]
+          },
+          {
+            "recap": "Tâm lý lạc quan đang dẫn dắt với kỳ vọng ADA có thể thoát khỏi xu hướng giảm hiện tại.",
+            "symbol": "$ADA",
+            "dominant": "bullish",
+            "breakdown": [
+              {
+                "pct": 60,
+                "label": "Bullish"
+              },
+              {
+                "pct": 40,
+                "label": "Neutral"
+              }
+            ]
+          }
+        ]
+      },
+      "analysis": "Thị trường hiện đang ở trạng thái 'Sợ hãi tột độ', phản ánh áp lực thanh lý và tâm lý thận trọng của dòng vốn bán lẻ trong ngắn hạn. Trong khi $BTC chịu áp lực bán đáng kể tại các mốc hỗ trợ kỹ thuật, dòng tiền thông minh đang có dấu hiệu luân chuyển sang các tài sản có câu chuyện riêng biệt như $TON và các hệ sinh thái meme coin đang bùng nổ trên BNB Chain. Sự phân hóa này cũng xuất hiện ở nhóm $USDT khi các lo ngại về pháp lý tại châu Âu thúc đẩy nhà đầu tư đánh giá lại quản trị vị thế. Thay vì chạy theo biến động giá, thị trường đang ưu tiên theo dõi các ngưỡng hỗ trợ quan trọng và các tín hiệu từ hoạt động on-chain của các 'cá voi' trong bối cảnh thanh khoản bị thắt chặt.",
+      "fearGreed": {
+        "label": "Sợ hãi tột độ",
+        "value": 23
+      },
+      "hotTopics": [
+        "Áp lực điều chỉnh của $BTC và các ngưỡng kỹ thuật cần theo dõi",
+        "Phục hồi tâm lý đối với $ETH sau các đợt thanh lý diện rộng",
+        "Sự bùng nổ của hệ sinh thái $TON và xu hướng meme coin dẫn dắt dòng tiền",
+        "Tác động của rủi ro pháp lý đối với thanh khoản $USDT và các giao dịch P2P"
+      ],
+      "contentAngles": [
+        "Đánh giá chiến lược quản trị rủi ro khi chỉ số Fear & Greed rơi vào vùng Sợ hãi tột độ",
+        "Phân tích sự khác biệt giữa kỳ vọng đảo chiều của $ADA, $ETH và thực tế cung cầu trên thị trường",
+        "Góc nhìn về cách dòng tiền luân chuyển giữa các hệ sinh thái chính trong bối cảnh thanh khoản biến động"
+      ]
+    },
+    "status": "ok",
+    "disclaimer": "Educational/informational only — not investment advice. Numbers are code-owned; prose is GFI research.",
+    "generatedAt": "2026-07-05T00:25:05.474Z",
+    "schemaVersion": "1.0",
+    "image": "sentiment_2026-07-05_07-25-08.jpg"
+  },
+  {
+    "id": "wave-recap:66",
+    "source": "signal",
+    "title": "Tổng hợp Smart Money · 8H",
+    "message": "📈 Xu hướng chung (8h):\nMUA ÁP ĐẢO (59%).\n\nTrong đó, dòng tiền thông minh đang cược mạnh vào:\n\n• $HYPE: giá mua TB $69.76\n• $BTC: giá mua TB $63,083\n\n👀 Đáng theo dõi (Long mạnh, KL nhỏ): $KBONK, $PENGU, $SPX, $LIT, $SUI\n\n🔄 Ví lớn đi ngược xu hướng:\n• HL Perps Majors Trader [0x3bcae2] đang gom $ETH (+$3.6M)\n• HL Perps Majors Trader [0x31dea2] đang gom $ETH (+$1.6M)\n• 🤓 Smart HL Perps Trader [0x833b99] đang xả $BTC (-$1.5M)\n• HL Perps Majors Trader [0x469e9a] đang xả $BTC (-$506K)\n• 🤓 \"Tay\" HL Vault Leader [0xaf0fdd] đang xả $BTC (-$387K)\n\n🆕 Token nổi bật mới trong 8h:\n$AAVE, $ETHFI, $KBONK, $FARTCOIN, $KPEPE, $EIGEN\n\n🆕 Các Entry mới Trong 8h:\nEntry $BTC giá $62,920 với KL mua $34.0M\n",
+    "signal_type": "wave_recap",
+    "ticker": "",
+    "ts": "2026-07-05T07:00:18+07:00",
+    "published_ts": "2026-07-05T07:00:18+07:00",
+    "source_url": "",
+    "sources": [],
+    "entry": null,
+    "pnl": null,
+    "image": "https://storage.googleapis.com/gfi-455410-signal-cards/cards/sm_wave_8h_wave-recap-66.png"
+  },
+  {
+    "id": "87",
+    "source": "digest",
+    "title": "Digest morning 2026-07-05",
+    "message": "🌍 TỔNG QUAN BUỔI SÁNG — 2026-07-05\n\n🟢 Xu hướng: Bullish\n\n🟢 Thiên hướng phiên tới: Bullish (~89%)\n\n• Thị trường ghi nhận đà phục hồi mạnh mẽ khi Bitcoin vượt mốc 63.000 USD, chấm dứt chuỗi 10 ngày rút ròng của các quỹ ETF bằng dòng tiền dương 221 triệu USD. [1]\n• Đà tăng giá nhanh chóng đã kích hoạt làn sóng thanh lý các vị thế bán khống trên thị trường phái sinh, củng cố đà phục hồi cho cả Bitcoin, Ethereum và XRP. [1]\n• Securitize chính thức hiện thực hóa lộ trình RWA với việc niêm yết song song cổ phiếu trên sàn NYSE và các đại diện token hóa trên mạng lưới Solana và Avalanche. [2]\n\n📌 TIÊU ĐIỂM CHÍNH\n🟢 Cập nhật: Bitcoin phục hồi từ mức thấp 21 tháng: Đà tăng vọt đưa BTC vượt 63.000 USD, kích hoạt làn sóng thanh lý vị thế bán khống diện rộng trên thị trường phái sinh. [1]\n🟢 Cập nhật: Securitize kết nối NYSE với blockchain: Việc niêm yết song song cổ phiếu NYSE cùng các token trên Solana và Avalanche đánh dấu bước ngoặt quan trọng trong việc đưa tài sản thực (RWA) lên chuỗi. [2]\n⚪ Cập nhật: Tranh cãi về ví Satoshi Nakamoto: Các chuyên gia bắt đầu thảo luận khả năng nâng cấp mạng lưới nhằm di chuyển 1,1 triệu BTC của Satoshi để phòng ngừa rủi ro từ điện toán lượng tử trong tương lai. [3]\n\n🧭 GÓC NHÌN\n• Dù tín hiệu kỹ thuật đảo chiều đang xuất hiện, giới phân tích vẫn thận trọng với rủi ro điều chỉnh ngắn hạn khi dòng tiền nạp lên sàn có dấu hiệu tăng mạnh. [1]\n• Các cơ quan quản lý tại EU đang tăng cường siết chặt quyền truy cập của nhà đầu tư nhỏ lẻ vào các thị trường dự báo, gây lo ngại về thanh khoản cho phân khúc này. [1]\n\n🔮 DỰ BÁO PHIÊN TỚI\n🟢 Nếu dòng tiền từ các quỹ ETF Bitcoin tiếp tục duy trì đà mua ròng tích cực và lực mua đẩy giá vượt mốc kháng cự 64.500 USD, đà tăng trưởng sẽ được củng cố mạnh mẽ hơn, tạo điều kiện cho BTC tiến về vùng kiểm định 66.000 USD trong phiên tới.\n🔴 Nếu áp lực chốt lời ngắn hạn xuất hiện khi thị trường tiến gần vùng 64.000 USD kết hợp với việc các chỉ số on-chain cho thấy sự gia tăng đột biến của nguồn cung trên các sàn giao dịch, giá có thể quay đầu điều chỉnh về vùng hỗ trợ 61.500 USD để kiểm định lại lực cầu trước khi xác định xu hướng tiếp theo.\n\n👀 CẦN THEO DÕI\n• Dòng vốn ròng từ các quỹ ETF Bitcoin để xác nhận sức bền của dòng tiền tổ chức\n• Biến động của chỉ số Open Interest trên thị trường phái sinh để nhận diện rủi ro thanh lý vị thế\n• Tâm lý thị trường qua dữ liệu funding rate trên các sàn giao dịch lớn\n• Tin tức cập nhật về các quy định pháp lý tại Mỹ và EU có thể tác động đến thanh khoản ngắn hạn\n\n📚 GIẢI THÍCH NHANH\n• ETF Bitcoin đảo chiều dòng vốn: Việc ETF Bitcoin chấm dứt chuỗi 10 ngày rút ròng bằng 221 triệu USD là tín hiệu quan trọng cho thấy áp lực bán từ khối tổ chức đã giảm bớt, giúp củng cố niềm tin về khả năng tạo đáy của thị trường.\n• Securitize và token hóa tài sản RWA: Việc giao dịch song song cổ phiếu NYSE và token trên Solana/Avalanche là bước ngoặt hiện thực hóa lộ trình xóa nhòa ranh giới giữa tài chính truyền thống và hạ tầng blockchain, giúp tối ưu hóa thanh khoản cho các tài sản thực (RWA).\n• Thanh lý vị thế bán khống: Đà tăng đẩy BTC vượt 63.000 USD đã kích hoạt đợt thanh lý quy mô lớn trên thị trường phái sinh, đây là hệ quả kỹ thuật trực tiếp tạo ra lực đẩy mạnh mẽ, xác nhận sự chuyển dịch tâm lý từ bi quan sang phục hồi.\n• Đề xuất di chuyển ví Satoshi: Việc thảo luận nâng cấp mạng để di chuyển số dư ví Satoshi nhằm đối phó với điện toán lượng tử cho thấy sự chuyển dịch ưu tiên của cộng đồng sang tính an toàn dài hạn, dù đặt ra thách thức về nguyên tắc bất biến của Bitcoin.\n\n💡 GỢI Ý NỘI DUNG\n- Phân tích tác động của việc niêm yết tokenized cổ phiếu qua Securitize đối với thanh khoản của Solana và Avalanche.\n- Cập nhật chiến lược quản trị rủi ro cho nhà đầu tư cá nhân trong bối cảnh Bitcoin xuất hiện tín hiệu đảo chiều kỹ thuật nhưng biến động vẫn ở mức cao.\n\n📰 Nguồn:\n[1] CoinDesk — https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses\n[2] cointelegraph — https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades\n[3] coindesk — https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+    "signal_type": "digest",
+    "ticker": "",
+    "ts": "2026-07-05T06:01:28+07:00",
+    "published_ts": "2026-07-05T06:01:28+07:00",
+    "source_url": "",
+    "sources": [
+      "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
+      "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+      "https://beincrypto.com/trump-meme-coin-cycle-retail-losses/",
+      "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+      "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "https://ambcrypto.com/bitcoin-at-62k-why-coinshares-warns-this-still-looks-like-early-stage-of-bottoming/",
+      "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says"
+    ],
+    "entry": null,
+    "pnl": null,
+    "image": "Digest_morning.png"
+  }
+]
