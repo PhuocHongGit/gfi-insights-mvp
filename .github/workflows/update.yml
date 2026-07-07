@@ -2,7 +2,7 @@ name: Update GFI Insights dashboard
 
 on:
   schedule:
-    - cron: '0 14 * * *'      # 14:00 UTC daily = 21:00 giờ VN (after the evening digest). Adjust as you like.
+    - cron: '0 */8 * * *'     # every 8h: 00/08/16 UTC = 07:00/15:00/23:00 giờ VN
   workflow_dispatch: {}         # also runnable on demand from the Actions tab ("Run workflow")
 
 permissions:

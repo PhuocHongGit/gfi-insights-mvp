@@ -20,9 +20,8 @@ BASE = "https://news-api-1094890588015.asia-southeast1.run.app/published"
 TEMPLATE = os.path.join(SKILL, "dashboard_template.html")
 DEFAULT_SHARE = "https://gfi.io"   # share target when an item has no source_url and no card image
 
-TABS = ["Tất cả", "Bản tin 06:30", "Bản tin 13:00", "Bản tin 19:00", "Tin nóng",
-        "Trước sự kiện", "Lịch tuần", "On-chain Insight", "Whales Alert",
-        "Cấu trúc thị trường", "Sector & Narrative"]
+TABS = ["Tất cả", "Tin tức", "Lịch tuần", "On-chain Insight", "Whales Alert",
+        "Cấu trúc thị trường"]
 
 # ---------- helpers ----------------------------------------------------------
 def parse_ts(t):
@@ -75,16 +74,16 @@ def first_body_line(secs):
 # ---------- tab / badge classification --------------------------------------
 def classify(src, st, title, msg):
     if src == "news" or st == "hack_alert":
-        return "Tin nóng", "Tin nóng", "Tin tức khẩn", "red", "Tin nóng"
+        return "Tin tức", "Tin nóng", "Tin tức khẩn", "red", "Tin nóng"
     if src == "digest":
         low = (title or "").lower(); m = msg or ""
         if "morning" in low or "SÁNG" in m:
-            tab, lab = "Bản tin 06:30", "Bản tin sáng"
+            lab = "Bản tin sáng"
         elif "noon" in low or "GIỮA NGÀY" in m or "TRƯA" in m:
-            tab, lab = "Bản tin 13:00", "Bản tin trưa"
+            lab = "Bản tin trưa"
         else:
-            tab, lab = "Bản tin 19:00", "Bản tin tối"
-        return tab, lab, "Bản tin", "green", lab
+            lab = "Bản tin tối"
+        return "Tin tức", lab, "Bản tin", "green", lab
     if src == "signal":
         if st in ("wave_recap", "recap_7d", "recap_30d"):
             return "On-chain Insight", "Smart Money", "On-chain", "blue", "On-chain Insight"
