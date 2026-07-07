@@ -101,6 +101,19 @@ def data_uri(path):
     mime = "image/png" if ext == ".png" else ("image/jpeg" if ext in (".jpg", ".jpeg") else "application/octet-stream")
     return f"data:{mime};base64," + base64.b64encode(open(path, "rb").read()).decode()
 
+def rel_time(ts, now):
+    """Vietnamese relative timestamp, computed at build time (refreshes each rebuild)."""
+    if not ts: return ""
+    s = (now - ts.astimezone(timezone.utc)).total_seconds()
+    if s < 0: s = 0
+    if s < 60: return "vừa xong"
+    if s < 3600: return f"{int(s // 60)} phút trước"
+    if s < 86400: return f"{int(s // 3600)} giờ trước"
+    if s < 7 * 86400: return f"{int(s // 86400)} ngày trước"
+    if s < 30 * 86400: return f"{int(s // (7 * 86400))} tuần trước"
+    if s < 365 * 86400: return f"{int(s // (30 * 86400))} tháng trước"
+    return f"{int(s // (365 * 86400))} năm trước"
+
 def local_extra_cards(local_json, assets_dir, now, cut):
     """Cards the API doesn't serve, pulled from the local snapshot json. EVERY one becomes a compact
     chart-left / text-right POST CARD (user 2026-07-06 "merge similar to previous"): the item's own RICH
@@ -174,6 +187,7 @@ def main():
 
     cards.sort(key=lambda c: c["_ts"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
     for c in cards:
+        c["ago"] = rel_time(c.get("_ts"), now)
         c.pop("_ts", None); c.pop("_src", None)
 
     if demo:                                        # pinned DEMO posts (e.g. the 'Lịch tuần' weekly unlock cards)
@@ -185,6 +199,11 @@ def main():
                     p = os.path.join(assets or os.path.dirname(demo), img)
                     if os.path.exists(p): d["cardImg"] = data_uri(p)
                 d.setdefault("fullCard", False)
+                dts = B.parse_ts(d.pop("ts", None))
+                d["ago"] = rel_time(dts, now)        # timestamp = the week's Monday → "1 ngày/1 tuần trước"…
+                d["_k"] = dts or datetime.min.replace(tzinfo=timezone.utc)
+            dc.sort(key=lambda d: d["_k"], reverse=True)   # newest first → the "X trước" labels ascend downward
+            for d in dc: d.pop("_k", None)
             cards = dc + cards                       # pin demo posts on top of the feed
             print(f"  + injected {len(dc)} demo post(s) from {os.path.basename(demo)}")
         except Exception as e:

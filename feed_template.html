@@ -61,6 +61,7 @@
     border:1px solid var(--border2);text-decoration:none}
   .sbtn svg{width:16px;height:16px;display:block}
   .brand{font:800 11px var(--mono);letter-spacing:.16em;color:rgba(255,255,255,.26)}
+  .ago{font:600 12.5px var(--mono);color:rgba(255,255,255,.42);letter-spacing:.02em;margin-bottom:6px}
   /* full pre-rendered card (news / sentiment / narrative) — the image IS the whole card */
   .card.full{flex-direction:column;padding:0;background:#0b0b0d}
   .full-img{width:100%;height:auto;display:block}
@@ -171,6 +172,7 @@ function cardHTML(s,gi){
   const img=s.cardImg?`<div class="left" onclick="openModal(${gi})"><img loading="lazy" src="${s.cardImg}" alt="card"><span class="hint">↔ phóng to · chi tiết</span></div>`:'';
   return `<div class="card ${s.cardImg?'':'noimg'}">${img}
     <div class="right">
+      ${s.ago?`<div class="ago">${esc(s.ago)}</div>`:''}
       <div class="headline">${esc(s.headline)}</div>
       <div class="tags">${tags}</div>
       ${s.lead?`<div class="lead">${hl(s.lead)}</div>`:''}

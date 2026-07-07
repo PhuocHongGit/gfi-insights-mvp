@@ -1,7 +1,8 @@
 [
  {
   "tab": "Lịch tuần",
-  "date": "06/07",
+  "ts": "2026-07-06T00:00:00+00:00",
+  "date": "06/07/2026",
   "isNew": true,
   "headline": "LỊCH MỞ KHÓA TUẦN 28 | 06/07 - 12/07",
   "title": "LỊCH MỞ KHÓA TUẦN 28 | 06/07 - 12/07",
@@ -37,7 +38,8 @@
  },
  {
   "tab": "Lịch tuần",
-  "date": "29/06",
+  "ts": "2026-06-29T00:00:00+00:00",
+  "date": "29/06/2026",
   "isNew": false,
   "headline": "LỊCH MỞ KHÓA TUẦN 27 | 29/06 - 05/07",
   "title": "LỊCH MỞ KHÓA TUẦN 27 | 29/06 - 05/07",
@@ -73,7 +75,8 @@
  },
  {
   "tab": "Lịch tuần",
-  "date": "22/06",
+  "ts": "2026-06-22T00:00:00+00:00",
+  "date": "22/06/2026",
   "isNew": false,
   "headline": "LỊCH MỞ KHÓA TUẦN 26 | 22/06 - 28/06",
   "title": "LỊCH MỞ KHÓA TUẦN 26 | 22/06 - 28/06",
@@ -109,7 +112,8 @@
  },
  {
   "tab": "Lịch tuần",
-  "date": "15/06",
+  "ts": "2026-06-15T00:00:00+00:00",
+  "date": "15/06/2026",
   "isNew": false,
   "headline": "LỊCH MỞ KHÓA TUẦN 25 | 15/06 - 21/06",
   "title": "LỊCH MỞ KHÓA TUẦN 25 | 15/06 - 21/06",
