@@ -27,7 +27,8 @@ jobs:
           PYTHONUTF8: '1'
         run: |
           python build/build_feed.py index.html --days 7 \
-            --local "assets/05072026_result.json" --assets "assets"
+            --local "assets/05072026_result.json" --assets "assets" \
+            --demo "assets/demo_lich_tuan.json"
 
       - name: Commit & push if the dashboard changed
         run: |

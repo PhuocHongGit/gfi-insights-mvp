@@ -142,6 +142,7 @@ def main():
            if "--asof" in args else datetime.now(timezone.utc))
     local = args[args.index("--local") + 1] if "--local" in args else None
     assets = args[args.index("--assets") + 1] if "--assets" in args else (os.path.dirname(local) if local else None)
+    demo = args[args.index("--demo") + 1] if "--demo" in args else None
     cut = now - timedelta(days=days)
 
     # local rich cards first — so we know which live sources (heatmap/sentiment) they cover this run.
@@ -174,6 +175,20 @@ def main():
     cards.sort(key=lambda c: c["_ts"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
     for c in cards:
         c.pop("_ts", None); c.pop("_src", None)
+
+    if demo:                                        # pinned DEMO posts (e.g. the 'Lịch tuần' weekly unlock cards)
+        try:
+            dc = json.load(open(demo, encoding="utf-8"))
+            for d in dc:
+                img = d.pop("image", None)
+                if img:
+                    p = os.path.join(assets or os.path.dirname(demo), img)
+                    if os.path.exists(p): d["cardImg"] = data_uri(p)
+                d.setdefault("fullCard", False)
+            cards = dc + cards                       # pin demo posts on top of the feed
+            print(f"  + injected {len(dc)} demo post(s) from {os.path.basename(demo)}")
+        except Exception as e:
+            print(f"  ! demo inject failed: {e}")
 
     counts = {t: 0 for t in B.TABS}; counts["Tất cả"] = len(cards)
     for c in cards: counts[c["tab"]] = counts.get(c["tab"], 0) + 1

@@ -1,0 +1,146 @@
+[
+ {
+  "tab": "Lịch tuần",
+  "date": "06/07",
+  "isNew": true,
+  "headline": "LỊCH MỞ KHÓA TUẦN 28 | 06/07 - 12/07",
+  "title": "LỊCH MỞ KHÓA TUẦN 28 | 06/07 - 12/07",
+  "tags": [
+   {
+    "text": "LỊCH TUẦN",
+    "bg": "#E0A32E",
+    "fg": "#1b1a17"
+   },
+   {
+    "text": "$RAIN",
+    "bg": "#242428",
+    "fg": "#9a9aa2"
+   }
+  ],
+  "lead": "Hơn $960M token được mở khóa trong tuần 28. Trong đó, $RAIN unlock hơn $770M trong tuần.",
+  "bullets": [
+   "$RAIN — $770.8M (~9.0% tổng cung)",
+   "$PUMP — $146.5M (~13.5% tổng cung)",
+   "$STABLE — $30.3M (~3.8% tổng cung)"
+  ],
+  "tip": "Token mở khóa ≥3% tổng cung (ô đỏ) tạo áp lực pha loãng đáng chú ý.",
+  "sections": [
+   {
+    "label": "Chi tiết",
+    "body": "Hơn $960M token được mở khóa trong tuần 28. Trong đó, $RAIN unlock hơn $770M trong tuần.\n• $RAIN — $770.8M (~9.0% tổng cung)\n• $PUMP — $146.5M (~13.5% tổng cung)\n• $STABLE — $30.3M (~3.8% tổng cung)"
+   }
+  ],
+  "image": "unlock_w28.jpg",
+  "shareUrl": "https://gfi.io",
+  "brand": "GFI · INSIGHTS",
+  "fullCard": false
+ },
+ {
+  "tab": "Lịch tuần",
+  "date": "29/06",
+  "isNew": false,
+  "headline": "LỊCH MỞ KHÓA TUẦN 27 | 29/06 - 05/07",
+  "title": "LỊCH MỞ KHÓA TUẦN 27 | 29/06 - 05/07",
+  "tags": [
+   {
+    "text": "LỊCH TUẦN",
+    "bg": "#E0A32E",
+    "fg": "#1b1a17"
+   },
+   {
+    "text": "$M",
+    "bg": "#242428",
+    "fg": "#9a9aa2"
+   }
+  ],
+  "lead": "Hơn $120M token được mở khóa trong tuần 27. Trong đó, $M unlock hơn $81M trong tuần.",
+  "bullets": [
+   "$M — $81.2M (~3.0% tổng cung)",
+   "$ARB — $18.0M (~3.4% tổng cung)",
+   "$EIGEN — $8.4M (~4.7% tổng cung)"
+  ],
+  "tip": "Token mở khóa ≥3% tổng cung (ô đỏ) tạo áp lực pha loãng đáng chú ý.",
+  "sections": [
+   {
+    "label": "Chi tiết",
+    "body": "Hơn $120M token được mở khóa trong tuần 27. Trong đó, $M unlock hơn $81M trong tuần.\n• $M — $81.2M (~3.0% tổng cung)\n• $ARB — $18.0M (~3.4% tổng cung)\n• $EIGEN — $8.4M (~4.7% tổng cung)"
+   }
+  ],
+  "image": "unlock_w27.jpg",
+  "shareUrl": "https://gfi.io",
+  "brand": "GFI · INSIGHTS",
+  "fullCard": false
+ },
+ {
+  "tab": "Lịch tuần",
+  "date": "22/06",
+  "isNew": false,
+  "headline": "LỊCH MỞ KHÓA TUẦN 26 | 22/06 - 28/06",
+  "title": "LỊCH MỞ KHÓA TUẦN 26 | 22/06 - 28/06",
+  "tags": [
+   {
+    "text": "LỊCH TUẦN",
+    "bg": "#E0A32E",
+    "fg": "#1b1a17"
+   },
+   {
+    "text": "$GRAM",
+    "bg": "#242428",
+    "fg": "#9a9aa2"
+   }
+  ],
+  "lead": "Hơn $96M token được mở khóa trong tuần 26. Trong đó, $GRAM unlock hơn $61M trong tuần.",
+  "bullets": [
+   "$GRAM — $61.1M (~1.2% tổng cung)",
+   "$H — $20.6M (~9.4% tổng cung)",
+   "$GRASS — $11.0M (~3.2% tổng cung)"
+  ],
+  "tip": "Token mở khóa ≥3% tổng cung (ô đỏ) tạo áp lực pha loãng đáng chú ý.",
+  "sections": [
+   {
+    "label": "Chi tiết",
+    "body": "Hơn $96M token được mở khóa trong tuần 26. Trong đó, $GRAM unlock hơn $61M trong tuần.\n• $GRAM — $61.1M (~1.2% tổng cung)\n• $H — $20.6M (~9.4% tổng cung)\n• $GRASS — $11.0M (~3.2% tổng cung)"
+   }
+  ],
+  "image": "unlock_w26.jpg",
+  "shareUrl": "https://gfi.io",
+  "brand": "GFI · INSIGHTS",
+  "fullCard": false
+ },
+ {
+  "tab": "Lịch tuần",
+  "date": "15/06",
+  "isNew": false,
+  "headline": "LỊCH MỞ KHÓA TUẦN 25 | 15/06 - 21/06",
+  "title": "LỊCH MỞ KHÓA TUẦN 25 | 15/06 - 21/06",
+  "tags": [
+   {
+    "text": "LỊCH TUẦN",
+    "bg": "#E0A32E",
+    "fg": "#1b1a17"
+   },
+   {
+    "text": "$LINK",
+    "bg": "#242428",
+    "fg": "#9a9aa2"
+   }
+  ],
+  "lead": "Hơn $250M token được mở khóa trong tuần 25. Trong đó, $LINK unlock hơn $160M trong tuần.",
+  "bullets": [
+   "$LINK — $165.7M (~2.8% tổng cung)",
+   "$ZRO — $23.4M (~4.0% tổng cung)",
+   "$CONX — $22.7M (~1.5% tổng cung)"
+  ],
+  "tip": "Token mở khóa ≥3% tổng cung (ô đỏ) tạo áp lực pha loãng đáng chú ý.",
+  "sections": [
+   {
+    "label": "Chi tiết",
+    "body": "Hơn $250M token được mở khóa trong tuần 25. Trong đó, $LINK unlock hơn $160M trong tuần.\n• $LINK — $165.7M (~2.8% tổng cung)\n• $ZRO — $23.4M (~4.0% tổng cung)\n• $CONX — $22.7M (~1.5% tổng cung)"
+   }
+  ],
+  "image": "unlock_w25.jpg",
+  "shareUrl": "https://gfi.io",
+  "brand": "GFI · INSIGHTS",
+  "fullCard": false
+ }
+]
