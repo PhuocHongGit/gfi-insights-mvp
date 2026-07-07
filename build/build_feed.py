@@ -185,12 +185,7 @@ def main():
             cards.append(e); seen.add(key); merged += 1
         print(f"  + merged {merged} local card(s) from {os.path.basename(local)} (chart-left rich wildcard + text)")
 
-    cards.sort(key=lambda c: c["_ts"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
-    for c in cards:
-        c["ago"] = rel_time(c.get("_ts"), now)
-        c.pop("_ts", None); c.pop("_src", None)
-
-    if demo:                                        # pinned DEMO posts (e.g. the 'Lịch tuần' weekly unlock cards)
+    if demo:                                        # DEMO posts (e.g. the 'Lịch tuần' weekly unlock cards)
         try:
             dc = json.load(open(demo, encoding="utf-8"))
             for d in dc:
@@ -199,15 +194,18 @@ def main():
                     p = os.path.join(assets or os.path.dirname(demo), img)
                     if os.path.exists(p): d["cardImg"] = data_uri(p)
                 d.setdefault("fullCard", False)
-                dts = B.parse_ts(d.pop("ts", None))
-                d["ago"] = rel_time(dts, now)        # timestamp = the week's Monday → "1 ngày/1 tuần trước"…
-                d["_k"] = dts or datetime.min.replace(tzinfo=timezone.utc)
-            dc.sort(key=lambda d: d["_k"], reverse=True)   # newest first → the "X trước" labels ascend downward
-            for d in dc: d.pop("_k", None)
-            cards = dc + cards                       # pin demo posts on top of the feed
+                d["_ts"] = B.parse_ts(d.pop("ts", None))   # timestamp = the week's Monday; kept for the merged sort
+                d.setdefault("_src", None)
+            cards += dc
             print(f"  + injected {len(dc)} demo post(s) from {os.path.basename(demo)}")
         except Exception as e:
             print(f"  ! demo inject failed: {e}")
+
+    # order the WHOLE feed ('Tất cả') by timestamp, newest first — demo posts sort into their real positions
+    cards.sort(key=lambda c: c.get("_ts") or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+    for c in cards:
+        c["ago"] = rel_time(c.get("_ts"), now)
+        c.pop("_ts", None); c.pop("_src", None)
 
     counts = {t: 0 for t in B.TABS}; counts["Tất cả"] = len(cards)
     for c in cards: counts[c["tab"]] = counts.get(c["tab"], 0) + 1
